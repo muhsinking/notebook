@@ -14,8 +14,16 @@ I promise you are already using some of them.[^1]
 
 - Ezra Klein's **theory of political polarization**, which proposes that we are "dividing over fundamental identities that tend to generate intolerance and hostility".
 
-- **The three [[The Status Game|status games]]** proposed by Will Storr are useful for understanding the underlying drives behind many human behaviors.
+- **The three [[The Status Game|status games]]**—success, virtue, and dominance—proposed by Will Storr are useful for understanding the underlying drives behind vast swaths of human behavior.
 
-- **Astrology** may not be "real" in the way that astronomy is (don't @ me), but like a tarot card reading, it can be a useful framework for introspection.
+- **Astrology**, which may not be "real" in the way that astronomy is (don't @ me), but like a tarot card reading, it can be a useful framework for introspection.
 
-[^1]: Frameworks for understanding are themselves a framework for understanding the non-objective but still-useful ideas that we use in our everyday lives.
+- **The [[Diátaxis]] approach** to technical writing is a great example of a framework that helps inform action.
+
+**Examples from things I've written:**
+
+- A proposed [[Why we work|ontology of labor orientations]]
+- Patterns in [[The end|how people think about death]]
+- Two common methods of [[Everything happens for a reason|narrativizing failure]]
+
+[^1]: "Frameworks for understanding" are themselves a framework for understanding the non-objective but still-very-useful ideas that we use in our everyday lives.

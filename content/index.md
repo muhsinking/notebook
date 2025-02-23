@@ -1,16 +1,16 @@
 ---
-title: A public notebook
+title: Taking notes out loud
 ---
 <img src="images/aboleth.jpg" alt="Aboleth" width="400"/>
 
-I'm Mo, a writer, artist, and lover of humans/computers/cats living in Brooklyn, NY. This is where I collect my favorite bits of [[essays/|writing]], as well as various [[notes/|notes, ideas, ephemera]] and [[Frameworks for understanding|frameworks]] that I find worth revisiting.
+I'm Mo, a writer, artist, and lover of humans/computers/cats living in Brooklyn, NY. This is where I collect my favorite bits of [[essays/|writing]], as well as various [[notes/|notes, ideas, ephemera]], and [[Frameworks for understanding|frameworks]] that I find worth revisiting.
 
 Topics range from [[tags/philosophy|philosophy]], to [[tags/anthropology|anthropology]], to reviews of [[tags/books|books]] and [[tags/games|games]], to hypotheses on how to [[tags/living|live well]]. Some pieces are (relatively) polished, while others are stubs or works in progress.
 
-If something here resonates with you, feel free to reach out to me at potluckpresscorps@gmail.com. I’d love to hear your thoughts
+If something here resonates with you, feel free to reach out to me at potluckpresscorps@gmail.com. I’d love to hear your thoughts!
 ## Where to start
 
-Most of what I write is, by my own estimation, worthless. It's always [[Why I write|useful to write]], but it's usually hard to imagine it being useful for anyone else to read.
+Most of what I write is, by my own estimation, worthless. It's always [[Why I write|useful to write]], but it's hard to imagine it being useful for anyone else to read.
 
 But there are a few things I've written over the years that I think might be worthy of other people's eyes and brains. Here are some of them:
 
@@ -24,7 +24,7 @@ I've been publishing essays on [Substack](https://potluckpress.substack.com) for
 
 Substack, it turns out, is terrible for this. Newsletters are ephemeral by design; they're intended to surface what's "new". You send your post, then move onto the next one. Not to slag Substack—it's an amazing platform for distributing your writing (not to mention monetizing it, though I've never dipped my toes into that size of the pool), but it's actually quite awful for curation.
 
-So the the goal for this site is curation rather than't distribution. I was inspired by the concept of the [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/), and decided to try cultivating a personal archive of knowledge here on the internet—mostly for myself, but also for whoever else is curious. Substack will still be my public diary, but this will be my public notebook.
+So the the goal for this site is curation rather than distribution. I want to cultivate a personal archive of knowledge (a [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/), if you're so inclined), mostly for myself, but also for whoever else is curious. Substack will still be my public diary, but this will be my public notebook.
 
 On that note...
 
