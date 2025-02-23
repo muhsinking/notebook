@@ -22,15 +22,15 @@ export default ((userOpts?: Partial<Options>) => {
         <h4>Folders</h4>
         <ul>
           <li>
-            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/essays/">Essays</a></h3>
+            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="essays/">Essays</a></h3>
             
           </li>
           <li>
-            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/notes/">Notes</a></h3>
+            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="notes/">Notes</a></h3>
             
           </li>
           <li>
-            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/lists/">Lists</a></h3>
+            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="lists/">Lists</a></h3>
             
           </li>
         </ul>
