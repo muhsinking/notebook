@@ -1,7 +1,7 @@
 ---
 title: Taking notes out loud
 ---
-<img src="images/aboleth.jpg" alt="Aboleth" width="400"/>
+<img src="https://raw.githubusercontent.com/muhsinking/notebook/refs/heads/v4/content/images/aboleth.jpg" alt="Aboleth" width="400"/>
 
 I'm Mo, a writer, artist, and lover of humans/computers/cats living in Brooklyn, NY. This is where I collect my favorite bits of [[essays/|writing]], as well as various [[notes/|notes, ideas, ephemera]], and [[Frameworks for understanding|frameworks]] that I find worth revisiting.
 
