@@ -5,7 +5,7 @@ title: Taking notes out loud
 
 I'm Mo, a writer, artist, and lover of humans/computers/cats living in Brooklyn, NY. This is where I collect my favorite bits of [[essays/|writing]], as well as various [[notes/|notes, ideas, ephemera]], and [[Frameworks for understanding|frameworks]] that I find worth revisiting.
 
-Topics range from [[tags/philosophy|philosophy]], to [[tags/anthropology|anthropology]], to reviews of [[tags/books|books]] and [[tags/games|games]], to hypotheses on how to [[tags/living|live well]]. Some pieces are (relatively) polished, while others are stubs or works in progress.
+Topics range from [[tags/philosophy|philosophy]], to [[tags/anthropology|anthropology]], reviews of [[tags/books|books]] and [[tags/games|games]], and hypotheses on how to [[tags/living|live well]]. Some pieces are (relatively) polished, while others are stubs or works in progress.
 
 If something here resonates with you, feel free to reach out to me at potluckpresscorps@gmail.com. I’d love to hear your thoughts!
 ## Where to start
@@ -34,7 +34,7 @@ There are a few of reasons:
 
 First, taking notes in public forces me to organize and edit my thoughts. I've done shedloads of private journaling over the last decade, on paper and in [Obsdian](https://obsidian.md/), but very little of it has lead to any into durable insights when compared with the writing I've done "out loud" over the last couple years. [[Why I write|Writing is great]] for figuring out what I think, but it seems as though editing is where those thoughts are transformed into reusable [[Frameworks for understanding|frameworks]]. So in short: I wanted a place to write out loud that's more flexible than a weekly newsletter.
 
-The second reason is that I unironically love information architecture, and making a public site lets me experiment with fancy new static site generators (huge thanks to [Jacky Zhao](https://jzhao.xyz) for creating this one; I haven't built a website in nearly ten years, and I can't believe how much easier it is to create something beautiful, functional, and fast than it was back in 2015). Hopefully I'll settle on a structure that makes it easier for me to access and recall ideas and frameworks that I think are important, so I can make more things, more quickly, more better.
+The second reason is that I unironically love [[Information architecture|information architecture]], and making a public site lets me experiment with fancy new static site generators (huge thanks to [Jacky Zhao](https://jzhao.xyz) for creating this one; I haven't built a website in nearly ten years, and I can't believe how much easier it is to create something beautiful, functional, and fast than it was back in 2015). Hopefully I'll settle on a structure that makes it easier for me to access and recall ideas and frameworks that I think are important, so I can make more things, more quickly, more better.
  
 The third reason is hopeless vanity.
 

@@ -46,6 +46,6 @@ How do we allocate access to healthcare, and housing, and suffrage? (Universally
 
 Economics is a mode of understanding, and a critical one for informing political thought and action. If you want to be politically aware beyond the level of vibes and groupthink, you need a basic economic framework to avoid advocating for counterproductive policies. If, on the other hand, you don’t give a damn about politics... that’s fine! But we probably shouldn't hang out.
 
-TL;DR: Economics is objectively sick, and if you disagree, I don't want to date you. _[Remember: the secret to being happy is convincing yourself (& your friends) that it’s actually Cool and Important to be exactly the way you already are.]_
+TL;DR: Economics is objectively sick, and if you disagree we shouldn't date. _[Remember: the secret to being happy is convincing yourself (& your friends) that it’s actually Cool and Important to be exactly the way you already are.]_
 
-[^1]: Don't use this phrase around actual economists. It’s not a real thing; I made it up.
+[^1]: Don't use this phrase around actual economists. It’s not a real thing. I made it up.
