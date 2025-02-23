@@ -20,7 +20,7 @@ But there are a few things I've written over the years that I think might be wor
 
 ## Why did you make this?
 
-I've been writing consistently on [Substack](https://potluckpress.substack.com) for two years now, and have started to identify some common themes in my writing and patterns of thought. Recently I've found myself wanting to refer back to things I've written earlier to inform future writing and action.
+I've been publishing essays on [Substack](https://potluckpress.substack.com) for two years now, and have started to identify some common themes in my writing and patterns of thought. Recently I've found myself wanting to refer back to things I've written earlier to inform future writing and action.
 
 Substack, it turns out, is terrible for this. Newsletters are ephemeral by design; they're intended to surface what's "new". You send your post, then move onto the next one. Not to slag Substack—it's an amazing platform for distributing your writing (not to mention monetizing it, though I've never dipped my toes into that size of the pool), but it's actually quite awful for curation.
 
