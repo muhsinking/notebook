@@ -3,7 +3,7 @@ title: A public notebook
 ---
 <img src="images/aboleth.jpg" alt="Aboleth" width="400"/>
 
-I'm Mo, a writer, artist, and lover of humans, computers, and cats living in Brooklyn, NY. This is where I collect my favorite bits of [[essays/|writing]], as well as various [[notes/|notes, ideas, ephemera]] and [[Frameworks for understanding|frameworks]] that I find worth revisiting.
+I'm Mo, a writer, artist, and lover of humans/computers/cats living in Brooklyn, NY. This is where I collect my favorite bits of [[essays/|writing]], as well as various [[notes/|notes, ideas, ephemera]] and [[Frameworks for understanding|frameworks]] that I find worth revisiting.
 
 Topics range from [[tags/philosophy|philosophy]], to [[tags/anthropology|anthropology]], to reviews of [[tags/books|books]] and [[tags/games|games]], to hypotheses on how to [[tags/living|live well]]. Some pieces are (relatively) polished, while others are stubs or works in progress.
 
