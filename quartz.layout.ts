@@ -26,8 +26,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Links(),
-    Component.RecentNotes({title: "Recent Notes"}),
+    Component.DesktopOnly(Component.Links()),
+    Component.DesktopOnly(Component.RecentNotes()),
     // Component.Explorer({
     //   title: "Contents", // title of the explorer component
     // }),
