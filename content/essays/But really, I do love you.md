@@ -6,7 +6,7 @@ tags:
   - religion
 ---
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6f44cb2-4af7-412a-81cd-2a46408fa16f_3072x4080.jpeg)
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6f44cb2-4af7-412a-81cd-2a46408fa16f_3072x4080.jpeg" alt="Aboleth" width="500"/>
 *“Things I love” 1 of 4*
 
 We left the bar at a quarter past midnight, the three of us walking side by side under the too-bright Ridgewood streetlamps. My legs were protesting loudly, feeling like lead after a long day of walking and biking, my head fuzzy from beer, but pleasantly resharpened by the cigarette we’d shared outside the bar.
