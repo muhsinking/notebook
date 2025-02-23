@@ -1,5 +1,5 @@
 ---
-title: Taking notes out loud
+title: A public notebook
 ---
 <img src="images/aboleth.jpg" alt="Aboleth" width="400"/>
 
