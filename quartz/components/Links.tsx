@@ -19,19 +19,19 @@ export default ((userOpts?: Partial<Options>) => {
     const opts = { ...defaultOptions(cfg), ...userOpts }
     return (
       <div class={`links ${displayClass ?? ""}`}>
-        <h3>{opts.title}</h3>
+        <h4>Folders</h4>
         <ul>
           <li>
-            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="essays/">Essays</a></h3>
-            Longer form writing
+            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/essays/">Essays</a></h3>
+            
           </li>
           <li>
-            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="notes/">Notes</a></h3>
-            Ideas and ephemera
+            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/notes/">Notes</a></h3>
+            
           </li>
           <li>
-            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="lists/">Lists</a></h3>
-            Lists of things
+            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/lists/">Lists</a></h3>
+            
           </li>
         </ul>
       </div>

@@ -1,3 +1,4 @@
+import { title } from "process"
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
