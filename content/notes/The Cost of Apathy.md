@@ -2,6 +2,7 @@
 date: 2024-09-20
 tags:
   - quotes
+  - living
 ---
 > The point of life is to live, and living isn’t a spectator sport.
 > 

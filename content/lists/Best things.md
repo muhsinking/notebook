@@ -1,5 +1,6 @@
 ---
-tags: []
+tags: 
+draft: "true"
 ---
 Below you'll find a list of my favorite things (i.e. media). Items in **bold** are the **best best things**.
 ## Books

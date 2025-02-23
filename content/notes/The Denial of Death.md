@@ -2,6 +2,8 @@
 tags:
   - quotes
   - books
+  - philosophy
+  - living
 ---
 
 My favorite passages from *The Denial of Death* by Ernest Becker:

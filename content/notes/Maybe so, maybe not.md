@@ -1,3 +1,7 @@
+---
+tags:
+  - living
+---
 
 > A farmer and his son had a beloved horse who helped the family earn a living. One day, the horse ran away and their neighbors exclaimed, “Your horse ran away, what terrible luck!” The farmer replied, “Maybe so, maybe not.”
 > 

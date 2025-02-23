@@ -67,7 +67,7 @@ tags: []
 - My Year of Rest and Relaxation
 - On Earth We're Briefly Gorgeous
 - The Year of Magical Thinking
-- The Denial of Death
+- [[The Denial of Death]]
 - Glass Hotel
 - How Should a Person Be? (Shiela Heti)
 - Something That May Shock and Discredit You
