@@ -6,11 +6,11 @@ tags:
 date: 2024-12-25
 ---
 
-***Alt title: My favorite book you should not read***
+***Alt title: My favorite book you shouldn't read***
 
 > Dating is probably the most fraught human interaction there is. You're sizing people up to see if they're worth your time and attention, and they're doing the same to you. It's meritocracy applied to personal life, but there's no accountability. We submit ourselves to these intimate inspections and simultaneously inflict them on others and try to keep our psyches intact—to keep from becoming cold and callous—and we hope that at the end of it we wind up happier than our grandparents, who didn't spend this vast period of their lives, these prime years, so thoroughly alone, coldly and explicitly anatomized again and again. But who cares, right? It’s just girl stuff.
-
-― Adelle Waldman, _The Love Affairs of Nathaniel P._
+> 
+> ― Adelle Waldman, _The Love Affairs of Nathaniel P._
 
 Books are just about the only thing I have a fairly good memory for. I can recall miscellaneous details from books I read a decade ago far more clearly than the conversations I’ve had in the last week. Despite this, I still find it enormously pleasurable to reread my favorite books. The thing that thrills me about a good book is rarely the sequence of events, characters, or the information conveyed. It’s about the feeling, the ineffable vibe conjured by a synchrony of beautiful prose and new ideas, for which, like the first sip of coffee on a chilly morning, memory is a poor substitute.
 
@@ -28,4 +28,4 @@ But they aren’t caricatures either, and that may be the most frustrating thing
 
 **TL;DR:** _The Love Affairs of Nathaniel P._ is one of the best pieces of psychological portraiture I’ve ever read, and one of my favorite novels full stop. There’s also a good chance you’ll hate it. **10/10, would not recommend.**
 
-[^1]: My actual [[Best things|favorite books]] are _Parable of the Sower_ by Octavia Butler and _Either/Or_ by Elif Batuman, and you should absolutely read both of them.
+[^1]: My actual favorite books are _Parable of the Sower_ by Octavia Butler and _Either/Or_ by Elif Batuman, and you should absolutely read both of them.
