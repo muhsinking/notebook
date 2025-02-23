@@ -35,7 +35,7 @@ And then, so suddenly I don’t realize it’s happening, my train of thought de
 >
 > _It’s actually kind of lucky that you got rejected, because otherwise you’d feel pressured to accept the offer just so you could stop looking. Plus you’ve learned a lot in this process, which you can use when it’s time to interview for a job you actually care about. So if you think about it, it really all worked out for the best!_
 
-How much of this story do I actually believe? Maybe a third. It does, after all, contain a several grains of truth _[nice job, brain]_. But deep down I know it’s a fiction, a post-hoc rationalization my subconscious has thrown together at the last minute, so I can feel better about failing to get something that I undeniably wanted.
+How much of this story do I actually believe? Maybe a third. It does, after all, contain a several grains of truth (nice job, brain). But deep down I know it’s a fiction, a post-hoc rationalization my subconscious has thrown together at the last minute, so I can feel better about failing to get something that I undeniably wanted.
 
 Human beings are incredibly adept at fabricating stories like this to explain away our disappointments. We narrativize our failures and rejections into “plot points” in our heroic arc—an arc which, we can thereby assure ourselves, must surely curve upward over the long run. These stories mostly fall into one (or both) of the following categories:
 
@@ -75,7 +75,7 @@ Just like the yarn I spun about my rejected job application, these stories usual
 
 > If we’re psychologically healthy, our brain makes us feel as if we’re the moral heroes at the centre of the unfolding plots of our lives. Any ‘facts’ it comes across tend to be subordinate to that story. If these ‘facts’ flatter our heroic sense of ourselves, we’re likely to credulously accept them, no matter how smart we think we are. If they don’t, our minds will tend to find some crafty way of rejecting them."
 
-It takes constant effort to remind ourselves that the stories we invent unconsciously, about why we fail (it's not our fault) and what it means (it’s for the best), are really just rationalizations, lies we tell ourselves to feel better, or “cope,” to use the colloquial invective. _[And the smarter you are, [the better you probably are at lying to yourself](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2182588).]_
+It takes constant effort to remind ourselves that the stories we invent unconsciously, about why we fail (it's not our fault) and what it means (it’s for the best), are really just rationalizations, lies we tell ourselves to feel better, or “cope,” to use the colloquial invective.[^3]
 
 But if they are lies, they may sometimes be useful, even necessary lies. For there are a great many things in life that must be coped with, and many far worse than a missed job opportunity. Heartbreak, injury, betrayal, discrimination, poverty, and death—we use story to transform the rocks of our hardship into stepping stones on our personal hero’s journey. Thus transfigured, we can find the strength to stride across them, lest we be shattered and sunk.
 
@@ -85,3 +85,5 @@ In case it isn’t obvious, I’m not trying to disabuse anyone of their interna
 [^1]: See: “[Seeds of Civilization](https://www.smithsonianmag.com/history/the-seeds-of-civilization-78015429/)” and “[Cooperation and the evolution of hunter-gatherer storytelling](https://www.nature.com/articles/s41467-017-02036-8)”.
 
 [^2]: Ted Chiang investigates the antithesis of this—i.e. what if you could peer into an alternate universe where you made a different choice—in his short story titled “Anxiety is the Dizziness of Freedom”. In it, Chiang proposes (and I was convinced) that maybe it IS actually better that we don’t know what might have been.
+
+[^3]:  And the smarter you are, [the better you probably are at lying to yourself](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2182588).
