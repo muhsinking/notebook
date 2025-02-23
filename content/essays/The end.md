@@ -1,12 +1,14 @@
 ---
-date: 2024-06-04
+date: 2024-03-23
 tags:
   - philosophy
   - death
   - frameworks
+  - love
+  - living
 ---
 
-> _This world devours every person and moves on. It does not stop moving, even as we pass through the middle of life telling ourselves it is the front end._
+> *This world devours every person and moves on. It does not stop moving, even as we pass through the middle of life telling ourselves it is the front end.*
 > 
 > — “[Your Real Biological Clock Is You’re Going to Die](https://indignity.substack.com/p/your-real-biological-clock-is-youre)” by Tom Scocca
 
@@ -21,16 +23,16 @@ Now he’s gone, and I feel sad that I didn’t take one of the many chances I h
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F469f41b9-c213-4a0b-a554-e4c0b33c66fb_966x819.jpeg)
 _John (right) & Helene (his daughter) at my parents’ wedding (left)_
 
-I don’t think our culture gives us very good tools for dealing with death—neither the passing of friends or relatives, or our own eventual demise. Death is largely ignored, while aging is seen as a problem to be solved, with a healthy diet, exercise, and an ever-widening array of obscure supplements & skincare products. I don’t think there’s anything wrong with trying to stay hot & healthy _[I reapplied sunscreen in the middle of writing this paragraph]_, but I think that in the absence of a robust social infrastructure, the ways we’ve come to think about aging and death are not helping us manage the _actual_ problem, which is that they probably _can’t_ be solved, and that we just have to _[deal with it](https://www.youtube.com/watch?v=7PmotSxxh68)._
+I don’t think our culture gives us very good tools for dealing with death—neither the passing of friends or relatives, or our own eventual demise. Death is largely ignored, while aging is seen as a problem to be solved, with a healthy diet, exercise, and an ever-widening array of obscure supplements & skincare products. I don’t think there’s anything wrong with trying to stay hot & healthy _[I reapplied sunscreen in the middle of writing this paragraph]_, but I think that in the absence of a robust social infrastructure, the ways we’ve come to think about aging and death are not helping us manage the _actual_ problem, which is that they probably _can’t_ be solved, and that we just have to [deal with it](https://www.youtube.com/watch?v=7PmotSxxh68).
 
-I tried to classify the attitudes toward mortality that I most often see among the young folks (20-35) in my life, and in the spaces I inhabit online, and I came up with three broad groups:
+I tried to classify the attitudes toward mortality that I most often see among the young folks (20-35) in my life, and in the spaces I inhabit online, and I came up with three broad categories:
 
 1. Self-imposed ignorance (“I just try not to think about it”).
 2. Denial; something to overcome (“Rage against the dying of the light”).
 3. Abject terror and/or depression (“Oh god, oh fuck, I’m going to die”).
 
 I want to respond to each of these, and then talk about what I think might be a better approach.
-## Ignorance is bliss(?)
+## Ignorance is bliss
 
 Given that death & aging are a bit spooky, what’s so bad about just like… not thinking about them? Well, aging is happening and death is inevitable, _whether or not_ you think about them. All of us will have to deal with them eventually, so we may as well prepare ourselves emotionally and physically for what is to come.
 
@@ -38,7 +40,7 @@ If you’re reading this in your 20s_,_ you’re most likely many years away fr
 
 It’s also worth considering the other people in your life—even if you yourself aren’t yet feeling the malignant effects of time's passage, someone you love _probably is_. Your parents, your mentors, your older friends (if you have them)—there’s a diminishing window during which we share a time and place on earth. True even for folks your own age! You never know when someone will move away forever… or whatever else might happen to them. Better to cherish these fleeting moments, than ignore the fact that someday they’ll be gone.
 
-## Death denied(?)
+## Denial of death
 
 Defeating death and halting aging has been the recurring dream of countless people across the millennia. From Gilgamesh to Qin Shi Huang, the quest for immortality is probably at least as ancient as the written word.
 
@@ -52,53 +54,59 @@ While I don’t think there’s anything inherently unethical about trying to av
 
 Then there are those who would deny aging while accepting death, aspiring to “live fast, die young, and leave a beautiful corpse.”  I’ve known several teens and twenty-somethings who claimed to live by this mantra, but I know fewer and fewer who still hope for an early death now that we're nearing or entering our thirties. Still, I can’t judge people for wanting to avoid the question of aging, because, well…
 
-## Aging and death are scary(!)
+## Fear of death
 
-Yeah, they kinda are! It’s not fun to lose the boundless energy or speedy healing that came naturally to us when we were younger. Many folks my age are already starting to stiffen, our desk jobs (and desk hobbies) and irregular exercise habits catching up to us. For my older relatives, time seems to have stiffened too, their calendars calcifying around the many responsibilities of middle age.
+Aging and death are not fun. No one would voluntarily give up the boundless energy or speedy healing that came naturally to us when we were younger. Many folks my age are already starting to stiffen, our desk jobs (and desk hobbies) and irregular exercise habits catching up to us. For my older relatives, time seems to have stiffened too, their calendars calcifying around the many responsibilities of middle age. It makes perfect sense to be afraid of these changes.
 
 Besides disability and death, you might also fear that you won’t accomplish the things you want to before some deadline. Many of these deadlines are self-imposed or arbitrary—you’re never _really_ too old to publish a book, to go back to school, or to go solo traveling. But there are non-arbitrary deadlines too: the so-called “biological clock”, and more superficial (but no less real) deadlines like: Are you too old to become an olympic athlete? _[Yes.]_ To climb Mt. Everest? _[No, but I don’t want to.]_ Are you about to get kicked off of your parents’ health plan? _[Fuck our healthcare system fr.]_
 
-Or perhaps we’re afraid to die without accomplishing as much as our heroes or peers, afraid that we won’t leave a proper “legacy”. This is a position I have less empathy for, as I simply don’t understand the legacy drive. In the grand scheme, no one will be remembered for very long. A year, a century, ten millennia, it’s all nothing compared to the grinding immensity of geologic time. Give it a couple million years and no one will remember Shakespeare or the pyramids, same as you and me.
+Or perhaps we’re afraid to die without accomplishing as much as our heroes or peers, afraid that we won’t leave a proper “legacy”. I have less empathy for this perspective, as I simply don’t understand the legacy drive. In the grand scheme, no one will be remembered for very long. A year, a century, ten millennia, it’s all nothing compared to the grinding immensity of geologic time. Give it a couple million years and no one will remember Shakespeare or the pyramids, same as you and me.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1767434a-3bb6-4fe1-9929-99fc7ee63988_2835x1946.jpeg)
 *John & Phil (less baby)*
 
-## Is there an alternative?
+## An alternative
 
 So what do we do instead of stewing in our ignorance, denial, and/or fear? If at all possible, I think we should we should try to:
 
-1. Accept that we will age & die _[“just don’t be depressed lmao” –JM]_ 
-2. Live accordingly
+1. Accept that we will age & die.[^2]
+2. Live accordingly.
 
-OK, but how do you accept your mortality? It’s trite, but the answer is that there are probably as many ways as there are humans on earth. Religion works for some, but it didn’t do much for me (sorry mom & dad). Reading philosophy has helped, as well as lots of Sitting and Thinking and Talking with the smart, beautiful people in my life. Here are my main thoughts:
+### Finding acceptance
+
+How do you accept your mortality? It depends on what how you're wired, and what you're receptive to. Religion works for some, but it didn’t do much for me (sorry mom & dad). Reading philosophy has helped, as well as lots of Sitting and Thinking and Talking with the smart, beautiful people in my life. Here are my main thoughts:
 
 1. If death and aging are inevitable, what’s the use in worrying about them? As Kierkegaard wrote, “anxiety is the dizziness of freedom.” Short of suicide, **I have no freedom to choose whether I’ll age, nor when I’ll die**. I will *definitely* die, and if I’m lucky, I’ll get to age a bit first, so what’s the sense in being anxious about it?
 
 2. **Death is basically egalitarian**, which as far as The Human Experience goes, is an uncommon property. With so much inequality and injustice in the world, I find it comforting to know that at the end of the day, we’ll all end up in the same place: super dead! Aging and disability, too, while unevenly distributed in duration and severity, will lay all of us low sooner or later. To quote Tom Scocca again, “the able and the disabled aren’t two different kinds of people but the same people at different times.”
 
-I don’t want to give you the impression that I am “totally chill” about dying. I would actually love to stay alive, because I’m having a pretty good time with it. I think the earth and its inhabitants are beautiful and wonderful, and I’d like to hang out with them a while longer. So, like most people, I take many steps every day to avoid dying. But, given that I _will_ die, and that I _am_ aging, I’d rather not waste time or effort stressing about those facts.
+I don’t want to give you the impression that I am “totally chill” with dying. I would actually love to stay alive, because I’m having a pretty good time of it all things considered. So, like most people, I take many steps every day to avoid dying. But, given that I _will_ die, and that I _am_ aging, I’d rather not waste time or effort stressing about those facts.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc85c25df-d4a9-4b91-9cec-4106cdc65667_1456x1092.jpeg)
 
-So let’s say you’re working on accepting your aging and eventual death, or that you’ve achieved total acceptance and are well on your way to nirvana. Congrats! What do I mean by that second part, “live accordingly?” By this, I mean that we should all take death a bit more seriously when choosing how to conduct our day to day affairs. In other words: act like you’re going to die. It’s not quite as simple as “living every day like it’s your last”. That doesn’t work because, well, what if it ain’t your last? You still gotta pay your taxes, or it’s straight to tax jail. Oh no! _[Oof, I really gotta do my taxes.]_ What I actually mean is something much more subtle and mundane: that we should treat our lives, our loved ones, and our everyday experiences with the respect and reverence they deserve.
+### Live like you're dying
 
-When I was younger, I spent far too many years “waiting for my life to begin”. Waiting to finish high school, to graduate college, to get a new job, to find the right city, or relationship. Waiting for something else to happen, besides what was already in front of me. Then, surely, once I reached that next step, I’d be able to start actually enjoying my life. But there was never a time when there weren’t endless things to learn, to appreciate, and enjoy. Sure, there were plenty of obstacles standing in the way of me having an Uncomplicated Good Time, the normal stressors of school and work and heartbreak, plus one instance of extended injury. But there was beauty too: music, and art, and books, and other people; friends, and family, and crushes, many of whom I’ll probably never speak to again.
+So let’s say you’re working on accepting your aging and eventual death, or that you’ve achieved total acceptance and are well on your way to nirvana. Congrats! What do I mean by that second part, “live accordingly?” By this, I mean that we should all take death a bit more seriously when choosing how to conduct our day to day affairs. In other words: act like you’re going to die. It’s not quite as simple as “living every day like it’s your last”. That doesn’t work because, well, what if it ain’t your last? You still gotta pay your taxes, or it’s straight to tax jail. Oh no! _[Oof, I really need to do my taxes.]_ What I actually mean is something much more subtle and mundane: that we should treat our lives, our loved ones, and our everyday experiences with the respect and reverence they deserve.
 
-Our mortality makes our experiences rare, like precious gemstones. Every moment is worthy of appreciation, if we can only find the energy for it. To quote John Green, writing about his encounter with a Cool Leaf:
+When I was younger, I spent far too many years “waiting for my life to begin”. Waiting to finish high school, to graduate college, to get a new job, to find the right city, or relationship. Waiting for something else to happen, besides what was already in front of me. Then, surely, once I reached that next step, I’d be able to start actually enjoying my life. But there was never a time when there weren’t endless things to learn, to appreciate, and enjoy. Sure, there were plenty of obstacles standing in the way of me having an Uncomplicated Good Time, the normal stressors of school, work, heartbreak, and injury.
 
-> _“Marveling at the perfection of that leaf, I was reminded that aesthetic beauty is as much about how and whether you look as what you see. From the quark to the supernova, the wonders do not cease. It is our attentiveness that is in short supply, our ability and willingness to do the work that awe requires.”_
+But there was beauty too: music, and art, and books, and other people; friends, and family, and crushes, many of whom I’ll probably never speak to again. Our mortality makes our experiences rare, like precious gemstones. Every moment is worthy of appreciation, if we can only find the energy for it.
+
+In The Anthropocene Reviewed, John Green writes about his encounter with a Cool Leaf:
+
+> *Marveling at the perfection of that leaf, I was reminded that aesthetic beauty is as much about how and whether you look as what you see. From the quark to the supernova, the wonders do not cease. It is our attentiveness that is in short supply, our ability and willingness to do the work that awe requires.*
 
 Human beings are the same. There’s an infinite well of beauty that can be accessed—or created—through our relationships with other people, if only we can find the ability and willingness to do the work that love requires.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc062aee2-0c7d-4663-b62d-9bb5422add5a_1084x1440.jpeg)
 *John & Joe*
 
-We had a memorial for John[^1] at my grandparents’ house, which I still think of as their house, even though they’re both dead now. I had a cold, but my mom persuaded me to come anyway. I masked up and took the metro north, bumping into my sort-of-cousin Lateef on the train platform. We sat in that same living room where my uncle and I had made so many faltering attempts at conversation over the years. My cousins shared stories about his life, while their kids, John’s grandchildren, eschewed any pretense of solemnity. They laughed and cried and screamed, and one of them straight up peed on the carpet. Soon they settled into a cycle of sprinting between the living & dining room, reemerging every so often with fistfuls of chocolate chip cookies. It was beautiful.
+We had a memorial for John[^1] at my grandparents’ house, which I still think of as their house, even though they are both also dead now. I was sick with a cold, but my mom persuaded me to come anyway. I masked up and took the metro north, bumping into my cousin Lateef on the train platform. We sat in that same living room where my uncle and I had made so many faltering attempts at conversation over the years. My John's kids shared stories about his life, while their kids, John’s grandchildren, eschewed any pretense of solemnity. They laughed and cried and screamed; one of them peed on the carpet. Soon they settled into a pattern of sprinting between the living & dining room, reemerging every so often with fistfuls of gooey, fresh-baked chocolate chip cookies.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61309f31-d9cc-4a17-bd5e-e899040395e1_1766x1210.jpeg)
 *Left to right: John, Phil, Helene, Ida, Peter*
 
-I hope that, whenever I happen to die, the people I love have some nice stories to tell, and some good chocolate chip cookies to share. [Here’s my favorite recipe](https://joythebaker.com/2014/05/the-best-brown-butter-chocolate-chip-cookies/) if you need one.
+I hope that whenever I happen to die, the people I love have some good stories to tell, and some delicious cookies to share. [Here’s my favorite recipe](https://joythebaker.com/2014/05/the-best-brown-butter-chocolate-chip-cookies/) if you need one.
 
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F380d711a-96a2-4660-9da3-9e601a4142e0_1200x1600.jpeg)
@@ -106,3 +114,5 @@ I hope that, whenever I happen to die, the people I love have some nice stories 
 
 
 [^1]: [My uncle… not John Green]_
+
+[^2]: “Just don’t be depressed lmao” –JM

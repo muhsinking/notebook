@@ -7,13 +7,12 @@ tags:
 
 > Diátaxis solves problems related to documentation _content_ (what to write), _style_ (how to write it) and _architecture_ (how to organise it).
 
-I recently came across the [Diátaxis](https://diataxis.fr/) approach to technical writing. Very cool to read, as it was essentially just a formalization of the principles that I learned through trial and error during the five years I spent tech writing after college. I highly recommend it to anyone who's interested in the art of technical communication.
+I recently came across the [Diátaxis](https://diataxis.fr/) approach to technical writing. Very cool to read, as it's essentially just a formalization of the principles that I learned through trial and error during the five years I spent tech writing after college. I highly recommend it to anyone who's interested in the art of technical communication.
 
-Here are some notes I took, mostly for my own reference:
+Here's a cheat sheet I made for my own reference:
 
 ## Axes of learning
 ![Diátaxis](https://diataxis.fr/_images/diataxis.png)
-
 
 
 - _Action_: practical steps

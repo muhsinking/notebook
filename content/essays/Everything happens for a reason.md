@@ -4,7 +4,7 @@ tags:
   - frameworks
   - anthropology
 ---
-> We know how this ends. You’re going to die and so will everyone you love. And then there will be heat death. All the change in the universe will cease, the stars will die, and there’ll be nothing left of anything but infinite, dead, freezing void. Human life, in all its noise and hubris, will be renderedj meaningless for eternity.
+> We know how this ends. You’re going to die and so will everyone you love. And then there will be heat death. All the change in the universe will cease, the stars will die, and there’ll be nothing left of anything but infinite, dead, freezing void. Human life, in all its noise and hubris, will be rendered meaningless for eternity.
 > 
 > But that’s not how we live our lives. Humans might be in unique possession of the knowledge that our existence is essentially meaningless, but we carry on as if in ignorance of it. We beetle away happily, into our minutes, hours and days, with the fact of the void hovering over us.
 > 
@@ -17,7 +17,7 @@ I step into my usual coffee shop to order a cappuccino, which for some reason (I
 
 The walk was frigid, but in here it’s tropically warm, so I shed my coat, scarf, gloves, and hat into a messy pile before taking a seat at the last remaining table. The cafe is packed like a Christmas market, interior decorated to match, the walls and bar festooned with lights, wreaths, and stockings, a ten-foot pine dominating the center of the room.
 
-Patrons are rooted at their tables in a dense thicket, jackets and bags forming a sparse underbrush. At the end of nearly every pair of arms and hands is a laptop—I count 26 in all—altars of dull black plastic or anodized aluminum where we worship intently, barring the occasional glances we steal at our neighbors’ screens, in case their gods are more interesting than ours. _What’s that slide deck he’s working on—“Harnessing Humor for Brand Loyalty?” Gross. Is she drawing furry porn on her iPad? Respect._
+Patrons are rooted at their tables in a dense thicket, jackets and bags forming a sparse underbrush. At the end of nearly every pair of arms and hands is a laptop—I count 26 in all—altars of dull black plastic or anodized aluminum where we worship intently, barring the occasional glances we steal at our neighbors’ screens, in case their gods are more interesting than ours. *What’s that slide deck he’s working on—“Harnessing Humor for Brand Loyalty?” Gross. Is she drawing furry porn on her iPad? In public? Respect.*
 
 A notification chirps onto my screen, wrenching my attention back to my inbox. I scan the new message, and the subject line is enough for me to guess that it bears the news I’ve been dreading all week: “Following up on your interviews.” Guts twisting, I read on:
 
@@ -45,11 +45,9 @@ It was out of your control. You did your best. There was nothing you could’ve 
 
 Lost your job? It definitely had nothing to do with your performance; they were just doing random layoffs. Your dentist says you have twelve cavities? You probably just have bad tooth genetics. (But maybe you should start flossing all the same.)
 
-This nice thing about this story is that it’s often true, more or less. Nearly everything that happens to us isn't a result of the conscious choices we’ve made, and a great deal of who we are, and even what we do stems from the accidental circumstances of our birth—genetics, family, nationality, the epoch in which we were born. What little control we do have is on the margins: the jobs we pursue, the partner we marry, the hobbies we explore. Even the most agentic individuals rarely do anything more extraordinary than start a business or move to a new country. That isn't to diminish those accomplishments, just to say that they are choices made within a tightly controlled set of circumstances, prescribed by the dominant culture and economic system.
+This nice thing about this story is that it’s often true, more or less. Nearly everything that happens to us isn't a result of the conscious choices we’ve made, and a great deal of who we are, and even what we do stems from the accidental circumstances of our birth—genetics, family, nationality, the epoch in which we were born. What little control we do have is on the margins: the jobs we pursue, the partner we marry, the hobbies we explore. Even the most agentic individuals rarely do anything more extraordinary than start a business or move to a new country. That isn't to diminish those accomplishments, just to say that they are choices made within a tightly controlled set of circumstances, prescribed by the dominant culture and economic system. Even our dreams are largely prescribed—why, for example, is starting a business such as popular goal in the first place? Why not dream of becoming a knight, or a feudal lord?
 
-_[Even our dreams are largely prescribed—why, for example, is starting a business such as popular goal in the first place? Why not dream of becoming a knight, or a feudal lord?]_
-
-The trouble with telling ourselves that we have no control, is that we might start telling ourselves this even in the marginal cases where it's not actually true, excusing ourselves from stressful work of changing our beliefs or reevaluating our actions. It's why I’m skeptical of the watered-down version of Stoicism exhibited by the Christian Serenity Prayer:
+But the danger with telling ourselves we have no control is that we may start using this as an excuse even in the marginal cases where it's not true, forgiving ourselves from stressful work of changing our beliefs or reevaluating our actions. It's why I’m skeptical of the watered-down Stoicism found in the Christian Serenity Prayer:
 
 > God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.
 
@@ -63,11 +61,9 @@ Your partner dumped you? You dodged a bullet; clearly they weren't The One. Inju
 
 Unlike the first story, this one rarely has much truth to it. It's simply impossible to know whether anything that happens is actually “for the best”, and that some other chain of events wouldn’t have lead to a happier outcome.
 
-Take my rejected job application—who could possibly say definitively whether this was "for the best"? I might have been incredibly happy working at [company], or unspeakably miserable. Maybe getting rejected saved my life, because I was fated to get hit by a bus on my way to orientation. Or maybe NOW I’m going to get hit by a bus, and I would have been spared if only I was working from home. _[Ahhh!]_
+Take my rejected job application—who could possibly say definitively whether this was "for the best"? I might have been incredibly happy working at [company], or unspeakably miserable. Maybe getting rejected saved my life, because I was fated to get hit by a bus on my way to orientation. Or maybe NOW I’m going to get hit by a bus, and I would have been spared if only I was working from home. Ahhh!
 
-One of the great frustrations of being alive is that we can’t see beyond the cresting wave of the present moment. We don’t get to know how things might have been, if had we made a different choices.* We only know how they are—and even that we have a blurry sense of things. So rather than mourn our failures forever, it's easier to edit the story after the fact, telling ourselves that we’d be even worse off if things had gone otherwise. Which isn’t to say that it’s impossible to employ reason to guess at what might have been, just that we’re often quick to brush our troubles under the rug, declaring “it’s all for the best,” even when there isn’t much evidence to support that conclusion.
-
-_*[Ted Chiang investigates the antithesis of this—i.e. what if you could peer into an alternate universe where you made a different choice—in his short story titled “Anxiety is the Dizziness of Freedom”. In it, Chiang proposes (and I was convinced) that maybe it IS actually better that we don’t know what might have been.]_
+One of the great frustrations of being alive is that we can’t see beyond the cresting wave of the present moment. We don’t get to know how things might have been, if we made a different choices.[^2] We only know how they are—and even that we have a blurry sense of things. So rather than mourn our failures forever, it's easier to edit the story after the fact, telling ourselves that we’d be even worse off if things had gone otherwise. Which isn’t to say that it’s impossible to employ reason to guess at what might have been, just that we’re often quick to brush our troubles under the rug, declaring “it’s all for the best,” even when there isn’t much evidence to support that conclusion.
 
 ---
 
@@ -87,3 +83,5 @@ In case it isn’t obvious, I’m not trying to disabuse anyone of their interna
 
 
 [^1]: See: “[Seeds of Civilization](https://www.smithsonianmag.com/history/the-seeds-of-civilization-78015429/)” and “[Cooperation and the evolution of hunter-gatherer storytelling](https://www.nature.com/articles/s41467-017-02036-8)”.
+
+[^2]: Ted Chiang investigates the antithesis of this—i.e. what if you could peer into an alternate universe where you made a different choice—in his short story titled “Anxiety is the Dizziness of Freedom”. In it, Chiang proposes (and I was convinced) that maybe it IS actually better that we don’t know what might have been.
