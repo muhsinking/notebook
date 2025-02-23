@@ -4,11 +4,11 @@ tags:
 ---
 A "framework for understanding" is a meme my friend came up with for a mental model that helps you understand the world and/or act upon it. 
 
-These frameworks aren't "real" in the way that physics and chemistry are real. They haven't been confirmed through rigorous experimentation as objectively true facts about the universe. They are essentially just categories or labels whereby you can reduce the effectively infinite complexity of the universe into something that can be parsed.
+A framework isn't "real" in the way that physics and chemistry are real. They haven't been verified to Objectively Exist through rigorous experimentation. They're usually just categories, labels, or modes of thinking which help to reduce the effectively infinite complexity of the universe down into something that can be parsed and managed.
 
-I promise you are already using some of them.[^1]
+I promise that you're already using them.[^1]
 
-**Examples:**
+**Here are a few examples:**
 
 - **Cognitive biases**, like confirmation bias and survivorship bias, help us catch when people (including ourselves) might be making errors of judgement. Again, these aren't "real", but they are useful categories of behavior, which help us pattern match when we observe people making similar errors.
 
@@ -20,10 +20,10 @@ I promise you are already using some of them.[^1]
 
 - **The [[Diátaxis]] approach** to technical writing is a great example of a framework that helps inform action.
 
-**Examples from things I've written:**
+**And some examples from pieces I've written:**
 
-- A proposed [[Why we work|ontology of labor orientations]]
-- Patterns in [[The end|how people think about death]]
-- Two common methods of [[Everything happens for a reason|narrativizing failure]]
+- A proposed [[Why we work|ontology of labor orientations]].
+- Patterns in [[The end|how we think about death]].
+- Two common methods of [[Everything happens for a reason|narrativizing failure]].
 
 [^1]: "Frameworks for understanding" are themselves a framework for understanding the non-objective but still-very-useful ideas that we use in our everyday lives.
