@@ -1,0 +1,20 @@
+---
+date: 2023-07-03
+tags:
+  - living
+---
+I really loved the article [The Case Against Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel) by the philosopher Anges Callard. _[If you’ve already used your free New Yorker article this month, you can bypass the paywall by opening it in a new incognito window. Crimes!!]_
+
+I have nothing against travel (aside from the ongoing ecological catastrophe that we contribute to every time we fly), and neither does the author. But I agree with her belief that it doesn’t deserve any special significance over other leisure activities, or that any particular status should be conferred on a globe trotter over someone whose life is mostly—or entirely—confined to a single place. Callard writes:
+
+> _Travel is fun, so it is not mysterious that we like it. What_ is _mysterious is why we imbue it with a vast significance, an aura of virtue. If a vacation is merely the pursuit of unchanging change, an embrace of nothing, why insist on its meaning?_
+
+If you take issue with the basic premise that travel is seen as especially virtuous or meaningful, you should peruse the online dating profiles of 20-to-30 somethings in NYC. _[I considered reactivating my Hinge to grab screenshots as evidence, but decided that I value my sanity over any pretension to journalistic integrity. Take my word for it or do your own research, idc.]_ If you’re in roughly the same algorithmic soup as I am, you’ll encounter endless hordes of highly-educated, well-paid people who list travel as one of their few interests. With space so limited (and attention spans all but nonexistent), it’s clear that they’re using this as a selling point, something that potential partners would read and think: “I’d like to snog that person, and perhaps someday get married and have 2.5 children with them.” _[This is NYC so let’s be real: no one’s thinking about kids before 45.]_
+
+I think a limited amount of travel is extremely beneficial, particularly in young adulthood, when you’re still forming your core beliefs and life philosophy. Travel shows us how utterly contingent almost every aspect of our home culture is—from family values, to sexual mores, to work practices, and political systems. It’s important to understand that these are _not fixed,_ so that we feel empowered to challenge them when they interfere with either social justice or our personal happiness.
+
+But I also think there are _severely diminishing returns_ to your personal intellectual growth after a certain number of successive journeys. Perhaps I’m just old and ossified, but I haven’t felt any significant evolution in my beliefs during these last two weeks France. Compare this to my first major trip abroad at age sixteen, when it felt like my model of the world was being thoroughly reshaped with each new mile I walked. That isn’t to say I haven’t learned anything in France, but I could easily have discovered the contentious relationship between French Southerners and the [accursed north wind](https://en.wikipedia.org/wiki/Mistral_\(wind\)) from a secondary source if I was so inclined.
+
+I’m just realizing that I don’t enjoy sightseeing (AKA tourism) all that much, without the added layer of meaning and perspective that I felt like it granted me when I was younger. It feels comparatively hollow now, especially given the opportunity cost of flying so far from the friends, family, and cat that I hold dear. 
+
+I don't mean to throw shade on anyone who _does_ enjoy sightseeing—I’m just not likely to be impressed by the number of countries you’ve visited. To me that’s a neutral datapoint, equivalent in virtue to the number of hours I’ve sunk into my Steam library _[that’s a videogame thing, for the non-nerds out there]_. Both pastimes are replete with novelty, joy, and opportunities for connection. But neither should, in my opinion, convey any special status or significance.
