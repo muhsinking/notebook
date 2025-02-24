@@ -5,7 +5,7 @@ title: Taking notes out loud
 
 I'm Mo, a writer, artist, and lover of humans/computers/cats living in Brooklyn, NY. This is where I collect my favorite bits of [[essays/|writing]], as well as various [[notes/|notes, ideas, ephemera]], and [[tags/frameworks|frameworks]] that I find worth revisiting.
 
-Topics range from [[tags/philosophy|philosophy]], to [[tags/anthropology|anthropology]], reviews of [[tags/books|books]] and [[tags/games|games]], and hypotheses on how to [[tags/living|live well]]. Some pieces are (relatively) polished, while others are stubs or works in progress.
+Topics range from [[tags/philosophy|philosophy]], to [[tags/anthropology|anthropology]], reviews of [[tags/books|books]] and [[tags/games|games]], and ideas for how to [[tags/living|live well]]. Some pieces are (relatively) polished, while others are stubs or works in progress.
 
 If something here resonates with you, feel free to reach out to me at potluckpresscorps@gmail.com. I’d love to hear your thoughts!
 ## Where to start
