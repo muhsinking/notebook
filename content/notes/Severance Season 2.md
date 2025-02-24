@@ -10,11 +10,11 @@ tags:
 
 I just finished the fifth episode of *Severance* season 2. The show is **undeniably gorgeous**. The colors, cinematography, and framing are all absolutely stunning. I forgot how wonderfully uncanny-valley the intro animations are as well.
 
-My [[Really short games|complaint about the first season]] remains in effect, which is that **I often find the editing to be tedious**. Sometimes it feels like the creators are deliberately wasting my time, especially during dialogue sequences. But I feel slightly crazy saying this, because in general I love "slow media."[^1]
+My [[Really short games|complaint about the first season]] remains in effect, which is that **I often find the editing to be tedious**. Sometimes it feels like the creators are deliberately wasting my time, drip-feeding the mystery more slowly than it actually merits. But I feel slightly crazy saying this, because in general I love and respect "slow media."[^1]
 
-I'm realizing that **I just don't enjoy the mystery box genre**. I love puzzle games—Outer Wilds, Obra Dinn, The Forgotten City—where it feels like I'm actively *solving* something. But when I "solve" a TV show or movie by accurately predicting what was going to happen, I don't get nearly the same sense of satisfaction. Mostly I just feel *disappointed*... like, you couldn't even surprise me?
+I think I'm realizing that **I just don't enjoy the mystery box genre**. I love puzzle games—Outer Wilds, Obra Dinn, The Forgotten City—where it feels like I'm actively *solving* something. But when I "solve" a TV show or movie, by accurately predicting what was going to happen, I don't get nearly the same sense of satisfaction. Mostly I just feel *disappointed*. Like, you couldn't even surprise me?
 
-Still: the beauty and themes of the show have been compelling enough to keep me going, despite my disinterest in the greater mystery of "what's going on in there."
+Still, the beauty of the show and the unique themes have been compelling enough to keep me going, despite my disinterest in the greater mystery of "what's going on in there."
 
 ## The Parable of Mr. Milchick
 
