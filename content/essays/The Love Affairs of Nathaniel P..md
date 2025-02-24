@@ -8,7 +8,7 @@ date: 2024-12-25
 
 ***Alt title: My favorite book you shouldn't read***
 
-> Dating is probably the most fraught human interaction there is. You're sizing people up to see if they're worth your time and attention, and they're doing the same to you. It's meritocracy applied to personal life, but there's no accountability. We submit ourselves to these intimate inspections and simultaneously inflict them on others and try to keep our psyches intact—to keep from becoming cold and callous—and we hope that at the end of it we wind up happier than our grandparents, who didn't spend this vast period of their lives, these prime years, so thoroughly alone, coldly and explicitly anatomized again and again. But who cares, right? It’s just girl stuff.
+> *Dating is probably the most fraught human interaction there is. You're sizing people up to see if they're worth your time and attention, and they're doing the same to you. It's meritocracy applied to personal life, but there's no accountability. We submit ourselves to these intimate inspections and simultaneously inflict them on others and try to keep our psyches intact—to keep from becoming cold and callous—and we hope that at the end of it we wind up happier than our grandparents, who didn't spend this vast period of their lives, these prime years, so thoroughly alone, coldly and explicitly anatomized again and again. But who cares, right? It’s just girl stuff.*
 > 
 > ― Adelle Waldman, _The Love Affairs of Nathaniel P._
 

@@ -33,7 +33,8 @@ const TableOfContents: QuartzComponent = ({
         aria-controls="toc-content"
         aria-expanded={!fileData.collapseToc}
       >
-        <h3>{i18n(cfg.locale).components.tableOfContents.title}</h3>
+        {/* Hardcoded TOC title; should be replaced with title option. */}
+        <h3>On this page</h3>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="24"

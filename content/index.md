@@ -22,9 +22,9 @@ But there are a few things I've written over the years that I think might be wor
 
 I've been publishing essays on [Substack](https://potluckpress.substack.com) for two years now, and have started to identify some common themes in my writing and patterns of thought. Recently I've found myself wanting to refer back to things I've written earlier to inform future writing and action.
 
-Substack, it turns out, is terrible for this. Newsletters are ephemeral by design; they're intended to surface what's "new". You send your post, then move onto the next one. Not to slag Substack—it's an amazing platform for distributing your writing (not to mention monetizing it, though I've never dipped my toes into that size of the pool), but it's actually quite awful for curation.
+Substack, it turns out, is terrible at this. Newsletters are ephemeral by design; they're intended to surface what's "new". You send your post, then move onto the next one. Not to slag Substack—it's an amazing platform for distributing your writing (not to mention monetizing it, though I've never dipped my toes into that size of the pool), but it's actually quite awful for curation.
 
-So the the goal for this site is curation rather than distribution. I want to cultivate a personal archive of knowledge (a [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/), if you will), mostly for myself, but also for whoever else is curious. Substack will still be my public diary, but this will be my public notebook.
+So the the goal for this site is curation rather than distribution. I want to cultivate a personal archive of knowledge (a [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/), if you will), mostly for myself, but also for anyone else if they're curious. Substack will still be my public diary, but this will be my public notebook.
 
 On that note...
 
@@ -37,4 +37,3 @@ First, taking notes in public forces me to organize and edit my thoughts. I've d
 The second reason is that I unironically love [[Information architecture|information architecture]], and making a public site lets me experiment with fancy new static site generators (huge thanks to [Jacky Zhao](https://jzhao.xyz) for creating this one; I haven't built a website in nearly ten years, and I can't believe how much easier it is to create something beautiful, functional, and fast than it was back in 2015). Hopefully I'll settle on a structure that makes it easier for me to access and recall ideas and frameworks that I think are important, so I can make more things, more quickly, more better.
  
 The third reason is hopeless vanity.
-

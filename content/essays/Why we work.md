@@ -7,11 +7,11 @@ tags:
 ---
 ***More pretentious title: Towards an ontology of labor orientations***
 
-> I eventually admitted that I didn't have what it takes to be a good political cartoonist, that is, an interest in politics, and I returned to my first love, comic strips. For years I got nothing but rejection letters, and I was forced to accept a real job.
+> *I eventually admitted that I didn't have what it takes to be a good political cartoonist, that is, an interest in politics, and I returned to my first love, comic strips. For years I got nothing but rejection letters, and I was forced to accept a real job.*
 > 
-> A REAL job is a job you hate. I designed car ads and grocery ads in the windowless basement of a convenience store, and I hated every single minute of the four and a half million minutes I worked there. My fellow prisoners at work were basically concerned about how to punch the time clock at the perfect second where they would earn another 20 cents without doing any work for it.
+> *A REAL job is a job you hate. I designed car ads and grocery ads in the windowless basement of a convenience store, and I hated every single minute of the four and a half million minutes I worked there. My fellow prisoners at work were basically concerned about how to punch the time clock at the perfect second where they would earn another 20 cents without doing any work for it.*
 >
-> It was incredible: after every break, the entire staff would stand around in the garage where the time clock was, and wait for that last click. And after my used car needed the head gasket replaced twice, I waited in the garage too.
+> *It was incredible: after every break, the entire staff would stand around in the garage where the time clock was, and wait for that last click. And after my used car needed the head gasket replaced twice, I waited in the garage too.*
 >
 > — Bill Watterson, Kenyon College Commencement (1990)
 
@@ -113,10 +113,10 @@ _[If you haven’t thought about what your values are yet, I recommend you start
 
 This does NOT mean that we should all be “hustling” to find jobs that are maximally fulfilling, impactful, or remunerative. It’s equally valid, in my view, to pursue a job that simply stays out of the way, so you can focus on the things you actually value in your free time. Bill Watterson puts it much better than I ever could:
 
-> Creating a life that reflects your values and satisfies your soul is a rare achievement. In a culture that relentlessly promotes avarice and excess as the good life, a person happy doing his own work is usually considered an eccentric, if not a subversive. Ambition is only understood if it's to rise to the top of some imaginary ladder of success. Someone who takes an undemanding job because it affords him the time to pursue other interests and activities is considered a flake. A person who abandons a career in order to stay home and raise children is considered not to be living up to his potential—as if a job title and salary are the sole measure of human worth.
+> *Creating a life that reflects your values and satisfies your soul is a rare achievement. In a culture that relentlessly promotes avarice and excess as the good life, a person happy doing his own work is usually considered an eccentric, if not a subversive. Ambition is only understood if it's to rise to the top of some imaginary ladder of success. Someone who takes an undemanding job because it affords him the time to pursue other interests and activities is considered a flake. A person who abandons a career in order to stay home and raise children is considered not to be living up to his potential—as if a job title and salary are the sole measure of human worth.*
 > 
-> You'll be told in a hundred ways, some subtle and some not, to keep climbing, and never be satisfied with where you are, who you are, and what you're doing. There are a million ways to sell yourself out, and I guarantee you'll hear about them.
+> *You'll be told in a hundred ways, some subtle and some not, to keep climbing, and never be satisfied with where you are, who you are, and what you're doing. There are a million ways to sell yourself out, and I guarantee you'll hear about them.*
 > 
-> To invent your own life's meaning is not easy, but it's still allowed, and I think you'll be happier for the trouble.
+> *To invent your own life's meaning is not easy, but it's still allowed, and I think you'll be happier for the trouble.*
 > 
 > — Bill Watterson, Kenyon College Commencement (1990)

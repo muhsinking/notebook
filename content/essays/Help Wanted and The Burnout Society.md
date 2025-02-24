@@ -9,11 +9,11 @@ tags:
 ***Alt title: Stop exploiting yourself***
 ## Part 1: Help Wanted
 
-> “A committee is coming in early next week to evaluate the state of the store, see how we’re doing. They’re also going to decide who to put in place as store manager. But here’s the thing. They want to talk to you guys individually, to hear what you think. They want to make sure that you’re all behind their choice. After all, it’s your store too.”
+> *“A committee is coming in early next week to evaluate the state of the store, see how we’re doing. They’re also going to decide who to put in place as store manager. But here’s the thing. They want to talk to you guys individually, to hear what you think. They want to make sure that you’re all behind their choice. After all, it’s your store too.”*
 > 
-> Big Will flashed a meaningful grin, as he usually did after uttering a platitude.
+> *Big Will flashed a meaningful grin, as he usually did after uttering a platitude.*
 > 
-> He asked if anyone had any questions. Nicole eyed the coffeepot—which by now was hissing and sputtering wildly, like a small animal trying to scare off a larger predator—while the people who always asked questions, the ones who thought not having a question would be a humiliating acknowledgement of their own cosmic insignificance and eventual nonexistence, raised their hands.
+> *He asked if anyone had any questions. Nicole eyed the coffeepot—which by now was hissing and sputtering wildly, like a small animal trying to scare off a larger predator—while the people who always asked questions, the ones who thought not having a question would be a humiliating acknowledgement of their own cosmic insignificance and eventual nonexistence, raised their hands.*
 > 
 > —Adelle Waldman, _Help Wanted_
 
@@ -46,7 +46,7 @@ Given the economic dimensions of _Help Wanted_, it was a happy coincidence that
 
 In _The Burnout Society,_ Korean-born German philosopher Byung-Chul Han argues that modern life is characterized by “excess of positivity”. By this, he means that we live in a society that thinks “nothing is impossible”, and so we living in it demand more and more of ourselves over time, reaching for unbounded heights of achievement. He calls us the “achievement-subjects,” who, unlike the slaves and serfs of prior “disciplinary societies”, are suffering under the yolk of “compulsive freedom”, leading us to accelerate our pace of production in a flywheel of “auto-exploitation.” Han says “it leads to a society of work in which the master himself has become a laboring slave. In this society of compulsion, everyone carries a work camp inside.” He believes that the rise of the achievement-subject from the ashes of disciplinary society is the cause of the recent rise in rates of depression, burnout, and chronic fatigue:
 
-> Prohibitions, commandments, and the law are replaced by projects, initiatives, and motivation. Disciplinary society is still governed by no. Its negativity produces madmen and criminals. In contrast, achievement society creates depressives and losers.
+> *Prohibitions, commandments, and the law are replaced by projects, initiatives, and motivation. Disciplinary society is still governed by no. Its negativity produces madmen and criminals. In contrast, achievement society creates depressives and losers.*
 
 All of this is great from the perspective of capital. The achievement-subject is a competitive market unto itself; “it succumbs to the destructive compulsion to outdo itself over and over, to jump over its own shadow.” The achiever is far more productive than the laborer of disciplinary societies, who might work only as hard as necessary to avoid reprisals. “Auto-exploitation is significantly more efficient and brings much greater returns […] because the feeling of freedom attends it.”
 

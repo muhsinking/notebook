@@ -4,9 +4,9 @@ tags:
   - frameworks
   - anthropology
 ---
-> We know how this ends. You’re going to die and so will everyone you love. And then there will be heat death. All the change in the universe will cease, the stars will die, and there’ll be nothing left of anything but infinite, dead, freezing void. Human life, in all its noise and hubris, will be rendered meaningless for eternity.
+> *We know how this ends. You’re going to die and so will everyone you love. And then there will be heat death. All the change in the universe will cease, the stars will die, and there’ll be nothing left of anything but infinite, dead, freezing void. Human life, in all its noise and hubris, will be rendered meaningless for eternity.*
 > 
-> But that’s not how we live our lives. Humans might be in unique possession of the knowledge that our existence is essentially meaningless, but we carry on as if in ignorance of it. We beetle away happily, into our minutes, hours and days, with the fact of the void hovering over us.
+> *But that’s not how we live our lives. Humans might be in unique possession of the knowledge that our existence is essentially meaningless, but we carry on as if in ignorance of it. We beetle away happily, into our minutes, hours and days, with the fact of the void hovering over us.*
 > 
 > — Will Storr, _The Science of Storytelling_
 
@@ -73,7 +73,7 @@ But on an individual level, stories are how we keep ourselves sane. In our minds
 
 Just like the yarn I spun about my rejected job application, these stories usually stem from a kernel of truth. But as Will Storr writes in _The Science of Storytelling,_ we’ll usually ignore the facts if and when they threaten our sense of personal heroism:
 
-> If we’re psychologically healthy, our brain makes us feel as if we’re the moral heroes at the centre of the unfolding plots of our lives. Any ‘facts’ it comes across tend to be subordinate to that story. If these ‘facts’ flatter our heroic sense of ourselves, we’re likely to credulously accept them, no matter how smart we think we are. If they don’t, our minds will tend to find some crafty way of rejecting them."
+> *If we’re psychologically healthy, our brain makes us feel as if we’re the moral heroes at the centre of the unfolding plots of our lives. Any ‘facts’ it comes across tend to be subordinate to that story. If these ‘facts’ flatter our heroic sense of ourselves, we’re likely to credulously accept them, no matter how smart we think we are. If they don’t, our minds will tend to find some crafty way of rejecting them."*
 
 It takes constant effort to remind ourselves that the stories we invent unconsciously, about why we fail (it's not our fault) and what it means (it’s for the best), are really just rationalizations, lies we tell ourselves to feel better, or “cope,” to use the colloquial invective.[^3]
 

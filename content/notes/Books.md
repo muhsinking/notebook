@@ -1,8 +1,9 @@
 ---
-tags: []
+tags:
 ---
 ## Reading now
-- Crime and Punishment
+- Crime and Punishment (Fyodor Dostoyevsky)
+- Project Hail Mary (Andy Weir)
 ## To read
 
 ### Nonfiction
@@ -14,7 +15,6 @@ tags: []
 - The Solutions are Already Here
 - The Real Estate State
 - The Work of Art
-- Don Quixote
 - The Trees
 - Man's Search for Meaning
 - Intelligence and Spirit
@@ -27,13 +27,14 @@ tags: []
 - A Little Life
 - White Teeth (Zadie Smith)
 - A Course of Love
+- Don Quixote
 - Exit West (Mohsin Hamid)
 - A Picture of Dorian Grey
 - The Secret History
 - City of Thieves
 - A Visit from the Goon Squad
 - Free Food for Millionaires (Min Jin Lee)
-### Science fiction + fantasy
+### Science fiction & fantasy
 
 - Fahrenheit 451 (Bradbury)
 - Children of Dune
@@ -84,7 +85,7 @@ tags: []
 - Utopia of Rules
 - The Buried Giant (Ishiguro)
 - Demon Copperhead
-- Pachinko
+- [[Pachinko]]
 - Unlimited Memory
 - Wild Swans
 - Brave New World

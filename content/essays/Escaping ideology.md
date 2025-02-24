@@ -48,7 +48,7 @@ In case it isn't obvious, I am not disparaging these so-called “political” p
 
 We feel threatened by vegans and other “political” people because their existence exposes the dissonance between our words/beliefs and our desires/actions. We _say_ that we like animals and _say_ we care about the environment, but vegans are the only ones walking the walk—and that’s pretty sick, IMO. _[Why am I not vegan, then? I am simply not a good person.]_ At the end of the day, I think disparaging others for being “political” is usually just a way of complaining that they refuse to shut up and accept the status quo, and a way of forgiving ourselves—better, more objective, more “normal” people—for actually being _mostly_ _fine_ with the status quo. (This isn’t to say that the behavior of “political” people is never performative, status-seeking, or outright counterproductive. Those are absolutely real things… but let’s save that for another essay.)
 
-### OK but what do we do with this?
+### OK, so what do we do with this?
 
 Ideology is inescapable. There’s no point pretending that you can be perfectly objective about everything (as I did for many years). You’re still going to end up taking for granted, as demonstrated by your innermost desires and gut-level intuitions, a lot of the values that you were force-fed in your developmental years. Even if you rebelled against your parents and everything they stood for (as I did for many years), I guarantee that whatever alternative belief system you adopted was just that: adopted. You didn’t derive your secular humanism from first principles. You got it from movies and books and friends and mentors who collectively incepted you with the idea that secular humanism is pretty cool.
 

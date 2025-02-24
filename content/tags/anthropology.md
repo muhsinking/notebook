@@ -1,1 +1,1 @@
-Humans are my favorite thing.
+The study of human beans, AKA my favorite thing.

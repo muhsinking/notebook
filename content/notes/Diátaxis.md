@@ -59,4 +59,4 @@ Make changes iteratively, such that they docs are "always complete but never fin
 4. Do that thing.
 5. And then repeat.
 
-[^1]: When I was working in the field we called this "conceptual docs."
+[^1]: When I was working in the field we called these "conceptual docs."

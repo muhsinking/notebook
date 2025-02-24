@@ -18,7 +18,7 @@ After publishing [[Economics (disambiguation)|last week’s essay]] on economi
 > 
 > _—Darrick Hamilton_
 
-We shouldn’t! And yes, they are!! You should absolutely not trust all economists, nor any one economist all of the time. Just like our economy has become over-financialized, the field of economic study has been dramatically over-mathematized in the past ~70 years. Shitty economists have polluted the field with cherry-picked data & misleading graphs, which they claim can be used to predict the future (spoilers: they can’t). And just like in any scientific field, even the “good” economists are often way off base on individual issues _[looking at you, Krugman]._
+We shouldn’t! And yes, they are!! You should absolutely not trust all economists, nor any single economist all of the time. Just like our economy has become over-financialized, the field of economic study has been dramatically over-mathematized in the past ~70 years. Shitty economists have polluted the field with cherry-picked data & misleading graphs, which they claim can be used to predict the future (spoilers: they can’t). And just like in any scientific field, even the “good” economists are often way off base on individual issues _[looking at you, Krugman]._
 
 Economics is not a “hard” science in the ways that physics or chemistry are, and anyone who pretends as much should be laughed out of the room. Perhaps someday, with hitherto uninvented data gathering & analysis techniques, we could create perfectly objective and rigorous methods for economic study, but we are _nowhere close_ to that world today.
 

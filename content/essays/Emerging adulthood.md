@@ -10,15 +10,15 @@ These changes come with a lot of emotional turmoil, and I’ve been trying to de
 
 I recently came across the work of psychologist Jeffrey Jensen Arnett, which suggests that our current woes _are_ actually a recent invention, specific to this era of the Anthropocene. In the late 90s Arnett studied young adult psychology, interviewing 300 Americans between the ages of 18 and 29. He coined the term “emerging adulthood” to describe this range, which comes after the dependency of adolescence, but before the enduring responsibilities of normative adulthood (childrearing, homeownership, etc). He observed some common attributes of emerging adults:
 
-> 1. **Identity exploration**, answering the question “who am I?” and trying out various options, especially in love and work
+> *1. **Identity exploration**, answering the question “who am I?” and trying out various options, especially in love and work*
 >     
-> 2. **Instability**, in love, work, and place of residence
+> *2. **Instability**, in love, work, and place of residence*
 >     
-> 3. **Self-focus**, as obligations to others reach a lifespan low
+> *3. **Self-focus**, as obligations to others reach a lifespan low*
 >     
-> 4. **Feeling “in-between”**, in transition, neither adolescent nor adult
+> *4. **Feeling “in-between”**, in transition, neither adolescent nor adult*
 >     
-> 5. **Possibilities/optimism**, when hopes flourish and people have unparalleled opportunity to transform their lives
+> *5. **Possibilities/optimism**, when hopes flourish and people have unparalleled opportunity to transform their lives*
 >     
 > _— [What is Emerging Adulthood](https://www.unh.edu/pacs/emerging-adulthood)_
 

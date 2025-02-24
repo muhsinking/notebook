@@ -34,7 +34,7 @@ _TLWTASAP_ doesn’t read much like science fiction at all.
 _[One thing I can say wholeheartedly in favor of this book is that its unique and friendly characters have inspired some fantastic fan-art. For example:]_
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0baa13a7-cb88-4185-907d-666b0fcfacad_1000x566.jpeg)
-_—_[Elsa Varland](https://www.instagram.com/extraterezi)
+*—[Elsa Varland](https://www.instagram.com/extraterezi)*
 
 Science fiction is sometimes called “the literature of ideas” by its adherents (of which I am one), and this is perhaps the best way to distinguish it from fantasy[1](https://potluckpress.substack.com/p/space-opera-for-liberals#footnote-1-147715772) or normie-fiction[2](https://potluckpress.substack.com/p/space-opera-for-liberals#footnote-2-147715772). However well rounded the characters or detailed the setting of a sci-fi story may be (or not[3](https://potluckpress.substack.com/p/space-opera-for-liberals#footnote-3-147715772)), they are almost always employed (and often abused) in service of the exploration of one or more Big Ideas. For example:
 

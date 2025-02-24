@@ -5,11 +5,11 @@ tags:
   - living
 ---
 
-> Mira would sit in the lamp store and gaze at one lamp in particular. It had green blobs and red blobs; little polished stones of coloured glass that were held together by a network of iron. The shade was a half-oval, with a beautiful iron stand. It was the most wonderful thing Mira had ever seen
+> *Mira would sit in the lamp store and gaze at one lamp in particular. It had green blobs and red blobs; little polished stones of coloured glass that were held together by a network of iron. The shade was a half-oval, with a beautiful iron stand. It was the most wonderful thing Mira had ever seen*
 > 
-> […]
+> *[…]*
 > 
-> It was the essential humility of the lamp that drew her to it. It had not been made by someone with any sort of insight into how a person might want to appear to others, or who believed that people acquired things to show them off to their friends. It had not been made by someone who imagined that an object fit into a greater system of values, or could place its owner among others with similar taste. It had been made by a humble person who simply thought, _Now I will make my next lamp._
+> *It was the essential humility of the lamp that drew her to it. It had not been made by someone with any sort of insight into how a person might want to appear to others, or who believed that people acquired things to show them off to their friends. It had not been made by someone who imagined that an object fit into a greater system of values, or could place its owner among others with similar taste. It had been made by a humble person who simply thought,* Now I will make my next lamp.
 > 
 > _—Pure Colour_ by Shiela Heti
 
