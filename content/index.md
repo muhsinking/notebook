@@ -8,6 +8,7 @@ I'm Mo, a writer, artist, and lover of humans/computers/cats living in Brooklyn,
 Topics range from [[tags/philosophy|philosophy]], to [[tags/anthropology|anthropology]], reviews of [[tags/books|books]] and [[tags/games|games]], and ideas for how to [[tags/living|live well]]. Some pieces are (relatively) polished, while others are stubs or works in progress.
 
 If something here resonates with you, feel free to reach out to me at potluckpresscorps@gmail.com. I’d love to hear your thoughts!
+
 ## Where to start
 
 Most of what I write is, by my own estimation, worthless. It's always [[Why I write|useful to write]], but it's hard to imagine it being useful for anyone else to read.
@@ -34,6 +35,6 @@ There are a few of reasons:
 
 First, taking notes in public forces me to organize and edit my thoughts. I've done shedloads of private journaling over the last decade, on paper and in [Obsdian](https://obsidian.md/), but very little of it has lead to any into durable insights when compared with the writing I've done "out loud" over the last couple years. [[Why I write|Writing is great]] for figuring out what I think, but it seems as though editing is where those thoughts are transformed into reusable [[tags/frameworks|frameworks]]. So in short: I wanted a place to write out loud that's more flexible than a weekly newsletter.
 
-The second reason is that I unironically love [[Information architecture|information architecture]], and making a public site lets me experiment with fancy new static site generators (huge thanks to [Jacky Zhao](https://jzhao.xyz) for creating this one; I haven't built a website in nearly ten years, and I can't believe how much easier it is to create something beautiful, functional, and fast than it was back in 2015). Hopefully I'll settle on a structure that makes it easier for me to access and recall ideas and frameworks that I think are important, so I can make more things, more quickly, more better.
+The second reason is that I unironically love [[Information architecture|information architecture]], and building a public site gave me an excuse to experiment with modern [static-site generators](https://quartz.jzhao.xyz/). In time I hope to settle on a structure that makes it easier for me to access and recall ideas and frameworks that I think are important, so I can make more things, more quickly, more better.
  
 The third reason is hopeless vanity.

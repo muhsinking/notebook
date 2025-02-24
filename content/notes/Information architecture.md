@@ -4,7 +4,7 @@ tags:
   - work
 draft: "false"
 ---
-Information architecture (IA) is **the practice of organizing information so that it's easy to find and understand**. It's a critical thing to consider when building websites and apps, but it's also important in meatspace (see below for examples).
+Information architecture (IA) is **the practice of organizing information so that it's easy to find, understand, and apply. It's a critical thing to consider when building websites and apps, but it's also important in meatspace (see below for examples).
 
 ## Systems for IA
 
@@ -34,7 +34,7 @@ Metadata and tagging help describe data for easier retrieval. Includes attribute
 
 **Concision:** Limit the number of options to avoid overwhelming users.
 
-**Consistency:** Apply uniform design patterns, terminology, and layouts to reduce cognitive load and confusion.
+**Consistency:** Apply [[Diátaxis|uniform design patterns]], terminology, and layouts to reduce cognitive load and confusion.
 
 **Accessibility:** Ensure that all users, including those with disabilities, can access and navigate information easily.
 

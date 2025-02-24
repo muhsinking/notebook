@@ -79,11 +79,11 @@ It takes constant effort to remind ourselves that the stories we invent unconsci
 
 But if they are lies, they may sometimes be useful, even necessary lies. For there are a great many things in life that must be coped with, and many far worse than a missed job opportunity. Heartbreak, injury, betrayal, discrimination, poverty, and death—we use story to transform the rocks of our hardship into stepping stones on our personal hero’s journey. Thus transfigured, we can find the strength to stride across them, lest we be shattered and sunk.
 
-In case it isn’t obvious, I’m not trying to disabuse anyone of their internal sense of heroism—least of all myself. We should cherish our fabricated meanings, which help us bounce back quickly from setbacks, throwing ourselves once again into the messy work of living well. If we stay alert, not allowing our internal monologue to lure us into complacency or harmful delusion, it might even be possible to live up to our own self-aggrandizing narratives—to actually be heroes.
+I’m not trying to disabuse anyone of their internal sense of heroism—least of all myself. We should cherish our fabricated meanings, which help us bounce back quickly from setbacks, throwing ourselves once again into the messy work of living well. If we stay alert, not allowing our internal monologue to lure us into complacency or harmful delusion, it might even be possible to live up to our own self-aggrandizing narratives—to actually be heroes.
 
 
 [^1]: See: “[Seeds of Civilization](https://www.smithsonianmag.com/history/the-seeds-of-civilization-78015429/)” and “[Cooperation and the evolution of hunter-gatherer storytelling](https://www.nature.com/articles/s41467-017-02036-8)”.
 
-[^2]: Ted Chiang investigates the antithesis of this—i.e. what if you could peer into an alternate universe where you made a different choice—in his short story titled “Anxiety is the Dizziness of Freedom”. In it, Chiang proposes (and I was convinced) that maybe it IS actually better that we don’t know what might have been.
+[^2]: Ted Chiang investigates the antithesis of this—i.e. what if you could peer into an alternate universe where you made a different choice—in his short story *Anxiety is the Dizziness of Freedom*, in which he convincingly argues that it's probably for the best that we don’t have access to this information.
 
 [^3]:  And the smarter you are, [the better you probably are at lying to yourself](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2182588).
