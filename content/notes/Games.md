@@ -6,7 +6,7 @@ tags:
 
 ## Playing now
 
-- UFO 50
+- [[UFO 50]]
 
 ## To play
 
@@ -25,11 +25,10 @@ tags:
 - Fields of Mystria
 - The Case of the Golden Idol
 
-## Finished
+## Played
 ### 2025
 
 - Citizen Sleeper 2
-- UFO 50
 ## 2024
 
 - I was a teenage exocolonist

@@ -4,7 +4,7 @@ tags:
   - lists
 ---
 ## Reading now
-- Crime and Punishment (Fyodor Dostoyevsky)
+- [[Crime and Punishment]] (Fyodor Dostoyevsky)
 - Project Hail Mary (Andy Weir)
 ## To read
 

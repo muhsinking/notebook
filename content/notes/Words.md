@@ -1,7 +1,12 @@
 ---
 tags:
   - writing
+  - lists
 ---
+A list of words I like, in order of discovery (newest first).
+
+---
+
 Desideratum: something to be needed or desired.
 
 Amelioration: a type of semantic change that happens when a word’s meaning improves or becomes *more positive* over time.
