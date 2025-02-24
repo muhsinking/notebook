@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "muhsinking.github.io/notebook",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified", //alt: "created"
+    defaultDateType: "created", //alt: "modified"
     generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
@@ -72,7 +72,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        priority: ["frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
