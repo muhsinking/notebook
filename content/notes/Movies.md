@@ -1,3 +1,8 @@
+---
+tags:
+  - movies
+  - lists
+---
 ## To watch
 ### High priority
 - Get out
@@ -100,7 +105,7 @@
 - The last black man in San Francisco
 - Wanderlust
 
-## Finished
+## Watched
 
 ### 2025
 - The Master

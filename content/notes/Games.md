@@ -1,3 +1,9 @@
+---
+tags:
+  - games
+  - lists
+---
+
 ## Playing now
 
 - UFO 50

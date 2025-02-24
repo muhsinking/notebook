@@ -1,5 +1,7 @@
 ---
 tags:
+  - books
+  - lists
 ---
 ## Reading now
 - Crime and Punishment (Fyodor Dostoyevsky)
