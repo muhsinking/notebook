@@ -1,6 +1,7 @@
 ---
 tags:
   - living
+date: 2025-02-22
 ---
 Something fun I saw [on twitter](https://x.com/i_zzzzzz/status/1408546824970031126?lang=en). The goal is to try to experience at least three of the so-called nine delights ever day:
 

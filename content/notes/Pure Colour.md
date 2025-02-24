@@ -2,6 +2,7 @@
 tags:
   - quotes
   - books
+date: 2023-12-20
 ---
 
 My favorite passages from *Pure Colour* by Sheila Heti:

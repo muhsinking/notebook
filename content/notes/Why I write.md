@@ -1,6 +1,7 @@
 ---
 tags:
   - writing
+date: 2025-02-22
 ---
 
 1. To find out what I think.

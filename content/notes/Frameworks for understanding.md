@@ -1,6 +1,7 @@
 ---
 tags:
   - frameworks
+date: 2025-02-22
 ---
 A "framework for understanding" is a meme my friend came up with for a mental model that helps you understand the world and/or act upon it. 
 

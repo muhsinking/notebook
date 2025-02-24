@@ -3,6 +3,7 @@ tags:
   - quotes
   - books
   - frameworks
+date: 2024-09-25
 ---
 Notes on *The Status Game* by Will Storr.
 ## The three games

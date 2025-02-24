@@ -3,6 +3,7 @@ tags:
   - work
   - tech
   - writing
+date: 2025-02-20
 ---
 
 > Diátaxis solves problems related to documentation _content_ (what to write), _style_ (how to write it) and _architecture_ (how to organise it).

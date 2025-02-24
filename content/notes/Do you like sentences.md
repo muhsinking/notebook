@@ -3,6 +3,7 @@ tags:
   - books
   - quotes
   - writing
+date: 2025-02-20
 ---
 
 > A well-known writer got collared by a university student who asked, "Do you think I could be a writer?"

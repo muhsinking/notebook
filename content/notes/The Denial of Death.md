@@ -4,6 +4,7 @@ tags:
   - books
   - philosophy
   - living
+date: 2024-03-10
 ---
 
 My favorite passages from *The Denial of Death* by Ernest Becker:
