@@ -6,13 +6,13 @@ tags:
   - work
 ---
 
-> [!Warning] Contains extremely mild spoilers for *Severance* (almost nothing), and slightly spicy spoilers for *Sorry to Bother You*.
+> [!Warning] Contains extremely mild spoilers for *Severance* (basically nothing), and slightly spicy spoilers for *Sorry to Bother You*.
 
 I just finished the fifth episode of *Severance* season 2. The show is **undeniably gorgeous**. The colors, cinematography, and framing are all absolutely stunning, and I forgot how wonderfully uncanny-valley the intro animations are.
 
 But my primary [[In praise of really short games|complaint about the first season]] remains in effect, which is that **I often find the editing to be tedious**. It sometimes feels like the creators are deliberately wasting my time, drip-feeding hints more slowly than the mystery actually actually merits. I think this might be a me problem though, because *Severance* has helped me realize that **I don't find the tension inherent to the mystery box genre particularly engaging or interesting.**
 
-I love a puzzle [[lists/Games|game]]—Outer Wilds, Obra Dinn, The Forgotten City, etc.—where it feels like I'm actively *solving* something. The problem with mystery box TV, for me, is that **the mystery will eventually get solved for me**, whether or not put any effort into it. In fact, of I do end up "solving" a TV show or movie by accurately predicting what will happen, I usually just feel *disappointed*. Like, you couldn't even surprise me? You had one job!
+I love a puzzle [[lists/Games|game]]—Outer Wilds, Obra Dinn, The Forgotten City, etc.—where it feels like I'm actively *solving* something. The problem with mystery box TV, for me, is that **the mystery will eventually get solved for me**, whether or not put any effort into it. In fact, of I do end up "solving" a [[TV|TV show]] or [[Movies|movie]] by accurately predicting what will happen, I usually just feel *disappointed*. Like, you couldn't even surprise me? You had one job!
 
 Even so, the beauty of the show and the unique themes are thus far compelling enough to keep me going, despite my disinterest in the greater mystery of "what's going on in there."
 
@@ -30,5 +30,5 @@ Another phenomenal investigation of corporate hierarchy appears in the film *Sor
 
 **A+++, go watch *Sorry to Bother You.*** *Severance* is good too, it's just not my favorite genre.
 
-[^1]: My favorite movie I watched last year, *Perfect Days*, was also the slowest.
+[^1]: My favorite film I watched last year, *Perfect Days*, was also the slowest.
 [^2]: See: Musk, Zuckerburg, et al.

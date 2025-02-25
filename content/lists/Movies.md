@@ -1,7 +1,7 @@
 ---
 tags:
-  - movies
   - lists
+  - movies
 ---
 ## To watch
 ### High priority
@@ -112,8 +112,7 @@ tags:
 ### 2024
 - Furiosa
 - Frances Ha
-- The House
-- I saw the TV glow
+- I Saw the TV Glow
 - Brazil
 - Lawrence of Arabia
 - Glengarry Glen Ross
@@ -122,9 +121,11 @@ tags:
 - When Harry Met Sally
 - Perfect Days
 - Paris, Texas
+- Dune Part 2
 
 ### 2023
 - BlackBerry
-- Dune Part 2
+- Bottoms
 - Past Lives
 - Palm Springs
+- [[Sorry to Bother You|Sorry to Bother You]]
