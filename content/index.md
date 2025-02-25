@@ -11,8 +11,8 @@ If something here resonates with you, feel free to reach out to me at potluckpre
 
 If you're not sure where to start, here are a few of my favorite essays:
 
-- [[Everything happens for a reason]]: Thoughts on rejection, cope, and storytelling
-- [[But really, I do love you]]: What we mean when we say the words "I love you" across cultures and time
-- [[The end]]: Identifying common patterns in how we think about aging and death
+- [[Everything happens for a reason]]: Thoughts on rejection, cope, and storytelling.
+- [[But really, I do love you]]: What we mean when we say the words "I love you" across cultures and time.
+- [[The end]]: Common thought patterns around about aging and dying—and how to break them.
 
 Or you can read about [[Why I made this site|why I made this site]].

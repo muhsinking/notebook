@@ -28,7 +28,7 @@ But they aren’t caricatures either, and that may be the most frustrating thing
 
 **TL;DR:** _The Love Affairs of Nathaniel P._ is one of the best pieces of psychological portraiture I’ve ever read, and one of my favorite novels full stop. There’s also a good chance you’ll hate it. **10/10, would not recommend.**
 
-[^1]: My actual favorite books are _Parable of the Sower_ by Octavia Butler and _Either/Or_ by Elif Batuman, and you should absolutely read both of them.
+[^1]: My actual favorite [[notes/Books|books]] are _Parable of the Sower_ by Octavia Butler and _Either/Or_ by Elif Batuman, and you should absolutely read both of them.
 
 [^2]: Granted it was only acrimonious because of Nate’s unforgivably terrible communication skills. Like I said, infuriating!
 

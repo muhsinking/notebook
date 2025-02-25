@@ -6,7 +6,7 @@ tags:
 ---
 I abhor media that doesn’t respect your time. It seems like every streaming service is awash with shows bogged down by filler episodes _[e.g. almost every anime]_ or tedious under-editing _[Severance]._ Meanwhile theaters are clogged with films so convinced of their own grandeur and cultural significance that they drone on for three-plus hours _[Oppenheimer],_ or worse, spawn multiple unnecessary sequels _[The Hobbit trilogy]_.
 
-_[I don’t actually “abhor” Severance or Oppenheimer, and probably just used those examples to be annoying and contrarian. Both were well made, I just would have enjoyed them a lot more if they were 25% shorter.]_
+_[I don’t actually “abhor” Severance or Oppenheimer, and probably just used those examples to be annoying and contrarian. Both were well made, I just would have enjoyed them much more if they were about 25% shorter.]_
 
 Games are perhaps the worst offenders in this regard… or the “best offenders”, depending on what you’re optimizing for. If you want to wring as many hours of distraction as you can from a fixed number of dollars, then there’s no art form I can think of more generous than gaming.
 

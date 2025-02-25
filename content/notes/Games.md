@@ -3,7 +3,6 @@ tags:
   - games
   - lists
 ---
-
 ## Playing now
 
 - [[UFO 50]]
@@ -31,8 +30,8 @@ tags:
 - Citizen Sleeper 2
 ## 2024
 
-- I was a teenage exocolonist
-- Lil Gator Game
+- I Was a Teenage Exocolonist
+- Lil' Gator Game
 - Cobalt Core
 - Overboard
 - Pentiment
@@ -53,16 +52,16 @@ tags:
 
 - Disco Elysium
 - XCOM 2: War of the Chosen
-- Perfect tides
+- Perfect Tides
 - Mutazione
 - Killing time at light speed
 - [[Pyschonauts 2]]
 - VA-11 Hall-A: Cyberpunk Bartender Action
 - Dredge
-- Monster train
+- Monster Train
 - Control
 - Baldur's Gate 3
 - Neir: Automata
-- Thronebreaker (steam)
+- Thronebreaker
 - Homeworld
 - Against the Storm
