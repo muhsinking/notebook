@@ -15,4 +15,4 @@ If you're not sure where to start, here are a few of my favorite essays:
 - [[But really, I do love you]]: What we mean when we say the words "I love you" across cultures and time
 - [[The end]]: Identifying common patterns in how we think about aging and death
 
-Or you can read about [[Why make this site|why I made this site]].
+Or you can read about [[Why I made this site|why I made this site]].

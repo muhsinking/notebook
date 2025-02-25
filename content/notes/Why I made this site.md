@@ -4,9 +4,9 @@ tags:
 ---
 I've been publishing essays on [Substack](https://potluckpress.substack.com) for two years now, and have started to identify some common themes in my writing and patterns of thought. Recently I've found myself wanting to refer back to things I've written earlier **to inform future writing and action**.
 
-**Substack, it turns out, is terrible at this**. Newsletters are ephemeral by design; they're intended to surface what's "new". You send your post, then move onto the next one. Not to slag Substack—it's an amazing platform for distributing your writing, but it's actually quite awful for curation.
+**Substack, it turns out, is terrible at this**. Newsletters are ephemeral by design; they're intended to surface what's "new". You send your post, then it's onto the next one. Not to slag Substack—it's an amazing platform for distributing your writing, but it's quite awful for curation.
 
-So the the goal for this site is **curation rather than distribution**. I aim to cultivate a personal archive of knowledge (a [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/), if you will), mostly for myself, but also for anyone else if they're curious. **Substack will still be my public diary, but this will be my public notebook.**
+So that's the goal for this site: **curation rather than distribution**. I use this space to cultivate a living archive of information (a [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/), if you will), mostly for myself, but also for anyone else who's curious. **Substack will still be my public diary, but this will be my public notebook.**
 
 On that note...
 
