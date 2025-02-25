@@ -1,1 +1,1 @@
-See also: [[notes/Games|game list]].
+See also: [[lists/Games|game list]].

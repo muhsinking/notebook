@@ -3,7 +3,7 @@ title: Taking notes out loud
 ---
 <img src="https://raw.githubusercontent.com/muhsinking/notebook/refs/heads/v4/content/images/aboleth.jpg" alt="Aboleth" width="400"/>
 
-I'm Mo, a writer, artist, and lover of humans/computers/cats living in Brooklyn, NY. This is where I collect my favorite bits of [[essays/|writing]], as well as various [[notes/|notes]], [[tag/lists|lists]], and [[tags/frameworks|frameworks]] that I find worth revisiting.
+I'm Mo, a writer, artist, and lover of humans/computers/cats/[[Words|words]] living in Brooklyn, NY. This is where I collect my favorite bits of [[essays/|writing]], as well as various [[notes/|notes]], [[lists/|lists]], and [[tags/frameworks|frameworks]] that I find worth revisiting.
 
 Topics range from [[tags/philosophy|philosophy]], [[tags/anthropology|anthropology]], to reviews of [[tags/books|books]] and [[tags/games|games]], and ideas for how to [[tags/living|live well]]. Some pieces are (relatively) polished, while others are stubs or works in progress.
 

@@ -1,1 +1,1 @@
-See also: [[notes/Books|book list]].
+See also: [[lists/Books|book list]].
