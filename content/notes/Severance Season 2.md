@@ -4,9 +4,10 @@ tags:
   - sociology
   - TV
   - work
+  - scifi
 ---
 
-> [!Warning] Contains extremely mild spoilers for *Severance* (basically nothing), and slightly spicy spoilers for *Sorry to Bother You*.
+> [!Warning] Contains mild spoilers for *Severance*, and medium-spicy spoilers for *Sorry to Bother You*.
 
 I just finished the fifth episode of *Severance* season 2. The show is **undeniably gorgeous**. The colors, cinematography, and framing are all absolutely stunning, and I forgot how wonderfully uncanny-valley the intro animations are.
 
@@ -29,6 +30,8 @@ Milchick has the semblance of agency, when in reality he's only been given exact
 Another phenomenal investigation of corporate hierarchy appears in the film *Sorry to Bother You,* which manages to encapsulate the entire social ecology of capitalism in under 2 hours. The protagonist goes from unemployed, to a "star caller" hawking missiles, to snorting lines with the CEO. Along the way we get glimpses of life at every rung of the corporate ladder, as well those living outside (but nonetheless dependent on) it.
 
 **A+++, go watch *Sorry to Bother You.*** *Severance* is good too, it's just not my favorite genre.
+
+***Update:** S2 EP6 really won me over. It was the first time in the entire series I can remember not being a bit bored for the full duration of an episode. I guess I'm just more invested in the various love triangles/quadrangles than I am in the overall mystery of Lumon/Cold harbor.*
 
 [^1]: My favorite film I watched last year, *Perfect Days*, was also the slowest.
 [^2]: See: Musk, Zuckerburg, et al.

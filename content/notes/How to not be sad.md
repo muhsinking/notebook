@@ -2,6 +2,7 @@
 date: 2023-11-04
 tags:
   - living
+  - feelings
 ---
 Earlier this year I got Very Sad, and so I asked my friends for advice on how to not be sad. Here's what they said:
 ## Just be sad

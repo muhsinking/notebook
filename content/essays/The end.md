@@ -113,6 +113,6 @@ I hope that whenever I happen to die, the people I love have some good stories t
 *John & Leo (Phil’s baby)*
 
 
-[^1]: [My uncle… not John Green]_
+[^1]: My uncle, not John Green.
 
-[^2]: “Just don’t be depressed lmao” –JM
+[^2]: “Just don’t be depressed lmao.” –JM

@@ -5,7 +5,7 @@ date: 2025-02-22
 ---
 A "framework for understanding" is a meme my friend came up with for a mental model that helps you understand the world and/or act upon it. 
 
-Frameworks aren't't "real" in the way physics and chemistry are real. They haven't been verified to Objectively Exist through rigorous experimentation. They're usually just categories, [[Information architecture|labels]], or modes of thinking which help to reduce the effectively infinite complexity of the universe down to something that can be parsed and managed.
+Frameworks aren't "real" in the way physics and chemistry are real. They haven't been verified to Objectively Exist through rigorous experimentation. They're usually just categories, [[Information architecture|labels]], or modes of thinking which help to reduce the effectively infinite complexity of the universe down to something that can be parsed and managed.
 
 I promise that you're already using them.[^1]
 

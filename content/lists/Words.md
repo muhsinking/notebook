@@ -3,7 +3,7 @@ tags:
   - writing
   - lists
 ---
-A list of words I like, in order of discovery (newest first).
+A list of good words, in order of discovery (newest first).
 
 ---
 
