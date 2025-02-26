@@ -1,6 +1,7 @@
 ---
 draft: "true"
-tags: 
+tags:
+  - tech
 date: 2025-02-26
 ---
 I love Instagram ads.
@@ -11,4 +12,4 @@ These days I like them for the opposite reason, which is that they are correctly
 
 E.g. that Yogabody ad, which I find incredibly cute—and no, of course I'm not going to pay $99 for a mobility routine, but thank you for the reminder that I need to stretch more! I'm gonna go find a [free pdf on reddit](https://www.reddit.com/r/flexibility/wiki/starting_to_stretch/).
 
-[^1]: No offense to my Apple Watch using friends & family... I just think they look really bad :(
+[^1]: No offense to my friends and family with Apple Watches ... I just think they look really bad :(
