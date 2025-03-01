@@ -56,5 +56,4 @@ Pleasant but underwhelming. The pickle flavor whispers instead of shouts. 6/10.
 **Ottogi Ppushu Noodle Snack Bulgogi Flavor**  
 Literally just uncooked ramen with a packet of dry seasoning—which, as it turns out, is an excellent snacking experience. 7/10.
 
-
 [^1]: Some might say unnecessary, but they would be wrong.
