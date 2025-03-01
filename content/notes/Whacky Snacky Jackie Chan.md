@@ -9,7 +9,7 @@ A culinary and cinematic experiment unlike any other, Wacky Snacky Jackie Chan (
 1. Unusual[^1] snacks
 2. The filmography of Jackie Chan
 
-At the inaugural gathering, hosted by our very own Joe McGovern, participants arrived armed with an arsenal of eccentric edibles, from the mildly intriguing to the utterly cursed. What follows is an unflinching review of the night’s most memorable (and regrettable) bites:
+At the inaugural gathering, participants arrived armed with an arsenal of eccentric edibles, from the mildly intriguing to the utterly cursed. What follows is an unflinching review of the night’s most memorable (and regrettable) bites:
 
 **Cheese Pizza Cheetos Puffs**  
 Almost indistinguishable from regular Cheetos Puffs (which are already inferior to non-puff Cheetos IMO), but with a cloying aftertaste of artificial tomato. 4/10.
