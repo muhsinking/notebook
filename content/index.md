@@ -1,5 +1,5 @@
 ---
-title: Taking notes out loud
+title: Welcome home
 ---
 <img src="https://raw.githubusercontent.com/muhsinking/notebook/refs/heads/v4/content/images/aboleth.jpg" alt="Aboleth" width="400"/>
 
@@ -15,4 +15,4 @@ If you're not sure where to start, here are a few of my favorite essays:
 - [[But really, I do love you]]: What we mean when we say the words "I love you" across cultures and time.
 - [[The end]]: Common thought patterns around about aging and dying—and how to break them.
 
-Or you can read about [[Why I made this site|why I made this site]].
+Or you can read about [[Taking notes out loud|why I made this site]].
