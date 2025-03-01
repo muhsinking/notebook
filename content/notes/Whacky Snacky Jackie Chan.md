@@ -20,12 +20,11 @@ Very sweet, like a burger that's been marinated in ketchup for 24 hours. Tastes 
 Inoffensive, unremarkable, utterly benign. I felt nothing while eating them. 4/10.
 
 **Harry Potter™ Butterbeer Flavored Goldfish**  
-Nothing in common with actual Goldfish except the vague shape of the crackers and container. More like a tiny graham cracker bite, with a ghost of butterscotch flavor. Genuinely tasty, though, despite the transphobic aftertaste. 7/10.
+Nothing in common with actual Goldfish except the vague shape of the crackers and container. More like a tiny graham cracker bite, with a ghost of butterscotch flavor. Genuinely tasty, despite the transphobic aftertaste. 7/10.
 
-**Cannoli dip (unknown brand)**  
+**Wegman's cannoli dip**  
 If you’ve ever wanted to dunk your dessert into what is essentially vanilla cake frosting, congratulations, your moment has arrived. A crowd pleaser, but too sweet for me personally. 5/10.
 
-  
 **Oreos, blueberry & raspberry flavored**  
 Smells like a chemical spill, tastes like a stomachache. Unspeakably vile. 0/10.
 
