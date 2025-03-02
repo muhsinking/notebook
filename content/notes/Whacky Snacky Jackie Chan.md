@@ -3,6 +3,7 @@ tags:
   - reviews
   - food
 draft: "false"
+date: 2025-03-01
 ---
 A culinary and cinematic experiment unlike any other, Wacky Snacky Jackie Chan (WSJC) was founded in February 2025 to honor two cornerstones of modern civilization:
 

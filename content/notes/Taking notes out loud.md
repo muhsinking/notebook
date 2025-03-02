@@ -2,11 +2,11 @@
 date: 2025-02-22
 tags:
 ---
-I've been publishing essays on [Substack](https://potluckpress.substack.com) for two years now, and have started to identify some common themes in my writing and patterns of thought. Recently I've found myself wanting to refer back to things I've written earlier **to inform future writing and action**.
+I’ve been publishing essays on [Substack](https://potluckpress.substack.com) for two years now, and I've noticed some consistent themes and patterns emerge in my writing. More and more, I find myself wanting to revisit past work—to refine ideas, build on them, and let them **inform future writing and action**.
 
-**Substack, it turns out, is terrible at this**. Newsletters are ephemeral by design; they're intended to surface what's "new". You send your post, then it's onto the next one. Not to slag Substack—it's an amazing platform for distributing your writing, but it's quite awful for curation.
+**Substack, it turns out, is terrible for this.** Newsletters are ephemeral by design; it's all about what's *new*. Once a post goes out, it disappears into the archives, buried under whatever comes next. So while Substack is an incredible platform for distribution, it’s awful for curation.
 
-So that's the goal for this site: **curation rather than distribution**. I use this space to cultivate a living archive of information (a [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/), if you will), mostly for myself, but also for anyone else who's curious. **Substack will still be my public diary, but this will be my public notebook.**
+So that's the goal for this site: **curation rather than distribution**. I plan use this space to cultivate a living archive of information (a [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/), if you will), mostly for myself, but also for anyone else who's curious. **Substack will remain my public diary; this will be my public notebook.**
 
 On that note...
 
