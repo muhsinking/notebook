@@ -17,7 +17,7 @@ My favorite passages from *Pure Colour* by Sheila Heti:
 > 
 > Since the lamp she liked best was the least expensive one, it was possible that one day she might own it, if no one bought it first. Perhaps the fact that it was the least expensive one was the reason she had made it her favorite. There is no point in loving something that is not a bit within reach.
 > 
-> It was the essential humility of the lamp that drew her to it. It had not been made by someone with any sort of insight into how a person might want to appear to others, or who believed that people acquired things to show them off to their friends. It had not been made by someone who imagined that an object fit into a greater system of values, or could place its owner among others with similar taste. It had been made by a humble person who simply thought, Now I will make my next lamp.
+> It was the essential humility of the lamp that drew her to it. It had not been made by someone with any sort of insight into how a person might want to appear to others, or who believed that people acquired things to show them off to their friends. It had not been made by someone who imagined that an object fit into a greater system of values, or could place its owner among others with similar taste. It had been made by a humble person who simply thought, *Now I will make my next lamp*.
 
 ---
 

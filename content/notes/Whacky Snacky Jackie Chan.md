@@ -34,7 +34,7 @@ Smells like a chemical spill, tastes like a stomachache. Unspeakably vile. 0/10.
 Surprisingly balanced mix of wasabi kick and subtle seafood umami. I don’t particularly like octopus, but I’d still munch these at a party (which, in fact, I did). 7/10.
 
 **Wilde Protein Chips: Chicken & Waffles Flavor**
-Starts off promising with a solid maple syrup punch, then devolves into stale chicken and sadness. By the end, it was like chewing on dry gritty bits of charred bacon. A riveting journey, albeit with a tragic ending. 1/10.
+Starts off promising, with a solid punch of maple syrup, but then quickly devolves into stale chicken and sadness. By the end it was like chewing on dry gritty bits of charred bacon. A riveting journey, albeit with a tragic ending. 1/10.
 
 **Buffalo Wing Cheez-Its**
 Could have used a stronger dose of hot sauce, but honestly, they’re just slightly tangier Cheez-Its—which is fine by me, Cheez-Its are fire. 9/10.

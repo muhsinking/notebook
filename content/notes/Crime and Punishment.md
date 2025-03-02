@@ -12,6 +12,7 @@ Raskolnikov being unhinged:
 
  > Having come to such conclusions, he decided that in his own personal case there would be no such morbid turnabouts, that reason and will would remain with him inalienably throughout the fulfillment of what he had plotted, for the sole reason that what he had plotted—was "not a crime" ... We omit the whole process by means of which he arrived at this latter decision"
 
+> "Away with mirages, away with false fears, away with spectres! ... There is life! Was I not alive just now?"
 
 Razumikhin being based:
 
@@ -22,5 +23,4 @@ Razumikhin being based:
 > Razumikhin had the property of speaking the whole of himself out at once, whatever mood he was in.
 > 
 > Lying in one's own way is almost better than telling the truth in someone else's way;
-
 
