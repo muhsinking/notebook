@@ -40,11 +40,11 @@ At the inaugural gathering for WSJC, participants arrived armed with an arsenal 
 
 **Healing Home Foods Baked Maple Cinnamon Graham Bites** Nearly perfect—just the right mix of maple and cinnamon, with a phenomenal buttery texture. The preferred vessel for cannoli dip. The only issue: not particularly wacky. 9/10.
 
-**Salt & Vinegar Goldfish Crisps** Shocking. Delightful. Somehow better than both regular Goldfish _and_ salt & vinegar chips. Mildly sweet, with a bready finish. Could’ve devoured the whole bag if I weren’t still recovering from the Oreo incident. 10/10.
+**Salt & Vinegar Goldfish Crisps** Shocking. Delightful. Somehow better than both regular Goldfish _and_ salt & vinegar chips. Mildly sweet, with a bready finish. Could’ve devoured the whole bag if I wasn’t still recovering from the Oreo incident. 10/10.
 
 **Smackin’ Dill Pickle Flavored Sunflower Seeds** Pleasant but underwhelming. The pickle flavor whispers where it should shout. 6/10.
 
-**Ottogi Ppushu Noodle Snack Bulgogi Flavor** Literally just uncooked ramen with a packet of dry seasoning—which, as it turns out, is pretty darn good. 7/10.
+**Ottogi Ppushu Noodle Snack Bulgogi Flavor** Literally just uncooked ramen with a packet of dry seasoning—which, as it turns out, is pretty damn good. 7/10.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94f1fae8-a2fc-41e1-b8aa-e678a425bf10_3072x4080.jpeg)
 
