@@ -5,14 +5,17 @@ tags:
 ---
 ## To watch
 ### High priority
+- The Brutalist
+- The Conclave
+- The Substance
 - Get out
-- Fear and Loathing in Las Vegas (with Jake)
+- Fear and Loathing in Las Vegas
 - Children of Men
 - American Fiction
 - They Live
 - Civil War
-- The Fall (rec by Jona)
-- The Cook the thief his wife and her lover (Veronica rec)
+- The Fall
+- The Cook the thief his wife and her lover
 - Tokyo Grandfathers
 - The Beta Test
 - Rushmore (Wes Anderson
@@ -24,28 +27,27 @@ tags:
 - The Royal Tenenbaums
 - The Life Aquatic
 - The Godfather
-- The Substance
 - Pretty Woman
 - Dirty Dancing
 - Sicario
 - Kalki 2898
 - Asteroid City
 - Amadeus
-- Space Sweepers (korean cowboy bebop)
+- Space Sweepers
 - Ferrari
 - Heat (1995)
 - Us
 - All Illusions Must Be Broken
-- The Handmaiden (prime)
+- The Handmaiden
 - Portrait of a Lady On Fire
 - It's a Wonderful Life
-- It's such a beautiful day (jona's fav)
+- It's such a beautiful day
 - Blade
 - 1917
 - Paris Is Burning
-- The Master (There Will Be Blood director)
-- Licorice Pizza (TWBB director)
-- Do the Right Thing (spike lee)
+- The Master
+- Licorice Pizza
+- Do the Right Thing
 - Moonlight
 - The Sheik and I
 - The Dark Crystal
@@ -64,7 +66,6 @@ tags:
 - Song of the Sea
 - The Wandering Earth
 - Wolf Children
-- Encanto
 - Kung Pow
 - Dragonslayer
 - Vampire's kiss
@@ -82,7 +83,7 @@ tags:
 - Bill and Ted's Excellent Adventure
 - 1000 clowns
 - Watership down 1978
-- Hawk the slayer (good bad)
+- Hawk the slayer
 - Roots
 - The hidden fortress
 - Throne of Blood
@@ -109,6 +110,7 @@ tags:
 
 ### 2025
 - The Master
+- Encanto
 ### 2024
 - Furiosa
 - Frances Ha

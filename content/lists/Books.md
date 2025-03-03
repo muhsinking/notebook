@@ -23,6 +23,7 @@ tags:
 
 ### Fiction
 
+- Stoner (John Williams)
 - Another Country (James Baldwin)
 - Remains of the Day (Ishiguro)
 - Of Mice and Men
