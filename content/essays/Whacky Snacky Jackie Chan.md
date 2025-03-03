@@ -2,6 +2,7 @@
 tags:
   - reviews
   - food
+  - movies
 draft: "false"
 date: 2025-03-01
 ---
@@ -12,7 +13,7 @@ A culinary and cinematic experiment unlike any other, Wacky Snacky Jackie Chan (
 
 Some might call these snacks _unnecessary_, but they would be sadly mistaken. Wacky snacks are the hallmark of an advanced society—a bellwether of our relentless pursuit of greatness, excess, and decadence. Just as humanity, having conquered soil and sea, reached for Everest and then the stars, so too did we transcend the humble Cheez-It to create the Extra Toasty Cheez-It, the Extra Cheesy Cheez-It, the Extra Crunchy Bold Cheddar Cheez-It—and so on. It's in this Pursuit of Wackiness that we attain ever more daring heights of deliciousness and depravity, expanding our understanding of truth, beauty, and freedom.
 
-At the inaugural gathering for WSJC, participants arrived armed with an arsenal of eccentric edibles, from the mildly intriguing to the utterly cursed. What follows is an unflinching review of the night’s most memorable (and regrettable) bites.
+At the inaugural gathering for WSJC, participants arrived armed with an arsenal of eccentric edibles, ranging from mildly intriguing to utterly cursed. What follows is an unflinching review of the night’s most memorable (and regrettable) bites.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e574eb-3f3a-49ec-98f0-33a006b6d949_3072x4080.jpeg)
 
