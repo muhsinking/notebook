@@ -51,7 +51,7 @@ At the inaugural gathering for WSJC, participants arrived armed with an arsenal 
 
 After indulging in this dizzying array of questionable snacks, we moved on to the evening’s cinematic main course: _Half a Loaf of Kung Fu_, a martial arts comedy parody starring (and co-written by) the man, the myth, the Jackie Chan.
 
-As the film began, we settled into a collective reverie and/or torpor as our bodies tried (and mostly failed) to derive sustenance from the lurid mixture of artificial flavors and preservatives we’d just ingested. Much like the snacks themselves, the film was an exercise in pushing boundaries—of genre, humor, and cinematic coherence.
+As the film began, we settled into a collective reverie and/or torpor as our bodies tried (but mostly failed) to derive sustenance from the lurid mixture of artificial flavors and preservatives we’d just ingested. Much like the snacks themselves, the film was an exercise in pushing boundaries—of genre, humor, and cinematic coherence.
 
 By the time the credits rolled, we were full—not just our bellies, but our hearts, with a renewed appreciation for the spirit of invention and the audacity required to create something genuinely new. In both film and food, the road to greatness is littered with failures, yet punctuated by remarkable achievements that make the journey worthwhile.
 

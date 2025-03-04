@@ -3,7 +3,7 @@ date: 2024-09-30
 tags:
   - politics
 ---
-After reviewing [[Tactical Breach Wizards]] I asked a bunch of my friends the question: “what do you think about the cops?” Here's what they had to say:
+After I wrote my review of [[Tactical Breach Wizards]], I asked a bunch of my friends the question: “what do you think about the cops?” Here's what they said:
 
 ---
 
