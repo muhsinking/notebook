@@ -4,107 +4,79 @@ tags:
   - movies
 ---
 ## To watch
-### High priority
-- The Brutalist
-- The Conclave
-- The Substance
-- Get out
-- Fear and Loathing in Las Vegas
-- Children of Men
-- American Fiction
-- They Live
-- Civil War
-- The Fall
-- The Cook the thief his wife and her lover
-- Tokyo Grandfathers
-- The Beta Test
-- Rushmore (Wes Anderson
-- Dinner in America
-- Harvey
-- 12 Angry Men
 
-### Mid priority
-- The Royal Tenenbaums
-- The Life Aquatic
-- The Godfather
-- Pretty Woman
-- Dirty Dancing
-- Sicario
-- Kalki 2898
-- Asteroid City
-- Amadeus
-- Space Sweepers
-- Ferrari
-- Heat (1995)
-- Us
-- All Illusions Must Be Broken
-- The Handmaiden
-- Portrait of a Lady On Fire
-- It's a Wonderful Life
-- It's such a beautiful day
-- Blade
-- 1917
-- Paris Is Burning
-- The Master
-- Licorice Pizza
-- Do the Right Thing
-- Moonlight
-- The Sheik and I
-- The Dark Crystal
-- Throne of Blood (Kurosawa)
-- Challengers
-- Whiplash
+### Animated
+- Flow (2024)
+- Tokyo Godfathers (2003)
+- Watership Down (1978)
+### 2020s
 
-### Low priority
-- NOPE
-- Austenland
-- Babylon
-- Enemy at the Gates
-- Lost in Translation
-- Kong Skull Island
-- Godzilla v Kong
-- Song of the Sea
-- The Wandering Earth
-- Wolf Children
-- Kung Pow
-- Dragonslayer
-- Vampire's kiss
-- Face off
-- Hocus Pocus
-- Hulu 9/11 documentary
-- Something Good
-- The Pianist
-- Contact
-- Grey Gardens
-- Weathering with You
-- OJ: Made in America
-- Another Round
-- Mandy
-- Bill and Ted's Excellent Adventure
-- 1000 clowns
-- Watership down 1978
-- Hawk the slayer
-- Roots
-- The hidden fortress
-- Throne of Blood
-- Seven Samurai
-- Funeral parade of roses
-- Daughters of the dust
-- 13th
-- Before Sunrise
-- Demon (prime)
-- The Farewell
-- Goodfellas
-- City of God
-- Wall street
-- Boyhood
-- Downfall
-- Shaun the sheep
-- Farmageddon
-- The Godfather 1 & 2
-- Roma
-- The last black man in San Francisco
-- Wanderlust
+- The Brutalist (2024)
+- Civil War (2024)
+- Ferrari (2023)
+- Asteroid City (2023)
+- Kalki 2898 (2024)
+- Space Sweepers (2021)
+- Mandy (2018)
+- Demon (2021)
+- The Conclave (2024)
+- The Substance (2024)
+- NOPE (2022)
+
+### 2010s
+
+- The Life Aquatic with Steve Zissou (2010)
+- Moonlight (2016)
+- The Last Black Man in San Francisco (2019)
+- Portrait of a Lady on Fire (2019)
+- The Sheik and I (2012)
+- Us (2019)
+- Get Out (2017)
+- Boyhood (2014)
+
+### 2000s
+
+- City of God (2002)
+- Lost in Translation (2003)
+- Shaun the Sheep (2007)
+- The Fall (2006)
+- The Royal Tenenbaums (2001)
+
+### 1990s
+
+- The Pianist (1991)
+- Fear and Loathing in Las Vegas (1998)
+- Rushmore (1998)
+- Paris Is Burning (1990)
+- Before Sunrise (1995)
+
+### 1980s
+
+- Amadeus (1984)
+- The Dark Crystal (1982)
+- Dragonslayer (1981)
+- Blade (1982)
+- Dirty Dancing (1987)
+- They Live (1988)
+- Bill & Ted’s Excellent Adventure (1989)
+
+### 1960s-1970s
+
+- 1000 Clowns (1965)
+- Funeral Parade of Roses (1969)
+- The Godfather (1972)
+- The Godfather Part II (1974)
+- The Cook, the Thief, His Wife & Her Lover (1974)
+
+### 1920s-1950s
+
+- It's a Wonderful Life (1946)
+- Rashomon (1950)
+- Seven Samurai (1954)
+- The Hidden Fortress (1958)
+- Throne of Blood (1957)
+- 12 Angry Men (1957)
+- Harvey (1950)
 
 ## Watched
 
