@@ -7,8 +7,9 @@ tags:
 
 ### Animated
 - Flow (2024)
+- Wild Robot (2024)
 - Tokyo Godfathers (2003)
-- Watership Down (1978)
+
 ### 2020s
 
 - The Brutalist (2024)
@@ -17,7 +18,6 @@ tags:
 - Asteroid City (2023)
 - Kalki 2898 (2024)
 - Space Sweepers (2021)
-- Mandy (2018)
 - Demon (2021)
 - The Conclave (2024)
 - The Substance (2024)
@@ -25,7 +25,6 @@ tags:
 
 ### 2010s
 
-- The Life Aquatic with Steve Zissou (2010)
 - Moonlight (2016)
 - The Last Black Man in San Francisco (2019)
 - Portrait of a Lady on Fire (2019)
@@ -33,6 +32,7 @@ tags:
 - Us (2019)
 - Get Out (2017)
 - Boyhood (2014)
+- Mandy (2018)
 
 ### 2000s
 
@@ -41,6 +41,7 @@ tags:
 - Shaun the Sheep (2007)
 - The Fall (2006)
 - The Royal Tenenbaums (2001)
+- The Life Aquatic with Steve Zissou (2004)
 
 ### 1990s
 
@@ -49,16 +50,17 @@ tags:
 - Rushmore (1998)
 - Paris Is Burning (1990)
 - Before Sunrise (1995)
+- Blade (1998)
 
 ### 1980s
 
 - Amadeus (1984)
 - The Dark Crystal (1982)
 - Dragonslayer (1981)
-- Blade (1982)
 - Dirty Dancing (1987)
 - They Live (1988)
 - Bill & Ted’s Excellent Adventure (1989)
+- The Cook, the Thief, His Wife & Her Lover (1989)
 
 ### 1960s-1970s
 
@@ -66,17 +68,16 @@ tags:
 - Funeral Parade of Roses (1969)
 - The Godfather (1972)
 - The Godfather Part II (1974)
-- The Cook, the Thief, His Wife & Her Lover (1974)
 
 ### 1920s-1950s
 
+- Harvey (1950)
+- 12 Angry Men (1957)
 - It's a Wonderful Life (1946)
 - Rashomon (1950)
 - Seven Samurai (1954)
 - The Hidden Fortress (1958)
 - Throne of Blood (1957)
-- 12 Angry Men (1957)
-- Harvey (1950)
 
 ## Watched
 
