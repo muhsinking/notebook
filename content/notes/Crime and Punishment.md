@@ -6,6 +6,12 @@ tags:
   - quotes
 draft: "false"
 ---
+Main themes:
+- The nature of crime, the justifications people create for their actions, and the overwhelming power of guilt
+- The nature of good and evil, and whether there are "extraordinary" individuals who exist beyond conventional morality
+- Moral relativism vs. absolute morality
+- Nihilism vs. Christianity
+
 Raskolnikov being unhinged:
 
  > "I babble too much, however. That's why I don't do anything, because I babble. However, maybe it's like this: I babble because I don't do anything."

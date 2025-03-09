@@ -8,7 +8,6 @@ tags:
 ### Animated
 - Flow (2024)
 - Wild Robot (2024)
-- Tokyo Godfathers (2003)
 
 ### 2020s
 
@@ -42,10 +41,10 @@ tags:
 - The Fall (2006)
 - The Royal Tenenbaums (2001)
 - The Life Aquatic with Steve Zissou (2004)
+- The Pianist (2002)
 
 ### 1990s
 
-- The Pianist (1991)
 - Fear and Loathing in Las Vegas (1998)
 - Rushmore (1998)
 - Paris Is Burning (1990)
@@ -61,6 +60,7 @@ tags:
 - They Live (1988)
 - Bill & Ted’s Excellent Adventure (1989)
 - The Cook, the Thief, His Wife & Her Lover (1989)
+- Police Story (1985)
 
 ### 1960s-1970s
 
@@ -84,6 +84,7 @@ tags:
 ### 2025
 - The Master
 - Encanto
+- Tokyo Godfathers (2003)
 ### 2024
 - Furiosa
 - Frances Ha

@@ -6,6 +6,7 @@ tags:
 ## To watch
 
 ### High priority
+- Mo (Netflix)
 - Dungeon Meshi (Eli recommends)
 - Punch Punch Forever
 - We Are Lady Parts (Em recommends)
