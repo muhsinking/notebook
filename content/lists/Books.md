@@ -5,10 +5,11 @@ tags:
 ---
 ## Reading now
 - [[Crime and Punishment]] (Fyodor Dostoyevsky)
-- Project Hail Mary (Andy Weir)
+
 ## To read
 
 ### Nonfiction
+
 - The Conquest of Cool
 - The Extinction of Experience
 - H is for Hawk
@@ -20,6 +21,7 @@ tags:
 - The Trees
 - Man's Search for Meaning
 - Intelligence and Spirit
+- Free to Learn
 
 ### Fiction
 
@@ -37,6 +39,7 @@ tags:
 - City of Thieves
 - A Visit from the Goon Squad
 - Free Food for Millionaires (Min Jin Lee)
+
 ### Science fiction & fantasy
 
 - Fahrenheit 451 (Bradbury)
@@ -45,6 +48,7 @@ tags:
 - Everything for Everyone
 - Chain Gang All Stars
 - Scholomance (Naomi Novik)
+- Hand of the Emperor (Wahi recommends)
 
 ### Philosophy
 
@@ -52,7 +56,7 @@ tags:
 - Keiji Nishitani (The Self-Overcoming of Nihilism + Religion & Nothingness)
 - Albert Camus (The Myth of Sisyphus)
 - Simone Weil (Waiting for God)
-- The Structure of Scientific Revolutions
+- The Structure of Scientific Revolutions (Khun)
 - Nietzsche (Thus Spoke Zarathustra)
 - Kierkegaard (Either / Or)
 
@@ -62,6 +66,7 @@ tags:
 
 - Intermezzo (Sally Rooney)
 - Neuromancer
+- [[Project Hail Mary]] (Andy Weir)
 
 ### 2024
 
