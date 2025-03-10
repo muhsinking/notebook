@@ -81,7 +81,7 @@ tags:
 - How Should a Person Be? (Shiela Heti)
 - Something That May Shock and Discredit You
 - [[Help Wanted and The Burnout Society|Help Wanted]] (Adelle Waldman)
-- [[Help Wanted and The Burnout Society| The Burnout Society]] (Byung-Chul Han)
+- [[Help Wanted and The Burnout Society|The Burnout Society]] (Byung-Chul Han)
 - [[The Status Game]] (Will Storr)
 - Martyr!
 - Sublime Object of Ideology (Zizek)
