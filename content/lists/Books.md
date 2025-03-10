@@ -65,7 +65,7 @@ tags:
 ### 2025
 
 - Intermezzo (Sally Rooney)
-- Neuromancer
+- Neuromancer (William Gibson)
 - [[Project Hail Mary]] (Andy Weir)
 
 ### 2024
