@@ -5,10 +5,6 @@ tags:
 ---
 ## To watch
 
-### Animated
-- Flow (2024)
-- Wild Robot (2024)
-
 ### 2020s
 
 - The Brutalist (2024)
@@ -21,6 +17,8 @@ tags:
 - The Conclave (2024)
 - The Substance (2024)
 - NOPE (2022)
+- Flow (2024)
+- Wild Robot (2024)
 
 ### 2010s
 
@@ -85,6 +83,7 @@ tags:
 - The Master
 - Encanto
 - Tokyo Godfathers (2003)
+- 12 Angry Men (1997)
 ### 2024
 - Furiosa
 - Frances Ha
