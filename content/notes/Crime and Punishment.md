@@ -4,9 +4,11 @@ tags:
   - books
   - philosophy
   - quotes
+  - politics
+  - religion
 draft: "false"
 ---
-## Characters and ideologies of *Crime and Punishment*
+## Characters and ideologies in *Crime and Punishment*
 
 Pyotr Petrovich Luzhin:
 - Represents the shallow adoption of western liberalism, rational egoism, and utilitarianism without its ethical foundations.
@@ -29,7 +31,10 @@ Dmitri Prokofich Razumikhin, AKA the goodest boy:
 	- *"An honest and sensitive man opens his heart, and the man of business listens and goes on eating—and then he eats you up."*
 - Moral integrity: Maintains his principles despite poverty and adversity.
 - Questions fashionable intellectual trends without rejecting progress entirely.
-- **Thinking for yourself:** *"Lying in one's own way is almost better than telling the truth in someone else's way"*
+- **Thinking for yourself:**
+	- *"They insist on total impersonality, can you believe it? And that's just where they find the most relish! Not to be oneself, to be least of all like oneself! And they consider that the highest progress."*
+	- *"Lying in one's own way is almost better than telling the truth in someone else's way"*
+	- *"We like getting by on other people's reason—we've acquired a taste for it!"*
 - Critique of progressivism:
 	- *"I'll show you their books: with them one is always a **'victim of the environment'**—and nothing else! Their favorite phrase! Hence directly that **if society itself if society itself is normally set up, all crimes will at once disappear**, because there will be no reason for protesting and everyone will instantly become righteous. **Nature isn't taken into account**, nature is driven out, nature is not supposed to be! With them it's not mankind developing all along in a historical, living way that will finally turn by itself into a normal society, but, on the contrary, a social system, coming out of some mathematical head, will at once organize the whole of mankind and instantly make it righteous and sinless, sooner than any living process, without any historical and living way! That's why they have such an instinctive dislike of history: 'there's nothing in it but outrage and stupidity'—and everything is explained by stupidity alone! That's why they so dislike the living process of life: there's no need for the living soul! **The living soul will demand life, the living soul won't listen to mechanics, the living soul is suspicious, the living soul is retrograde**!*
 - On the irreducible mystery of life, the insufficiency of logic:
