@@ -21,8 +21,8 @@ Andrei Semyonovitch Lebeziatnikov:
 	- *"He was one of that numerous and diverse legion of vulgarians, feeble miscreates, half-taught petty tyrants who make a point of instantly latching on to the most fashionable current idea, only to vulgarize it at once, to man an instant caricature of everything they themselves serve, sometimes quite sincerely."*
 - *"I only believe in the theory that there are no sacred rights at all, not that existing ones should be abused! The future commune will not need personal or property rights."*
 
-Razumikhin, AKA the goodest boy:
-- Balanced, pragmatic; clearly represents Dostoevsky's own views.
+Dmitri Prokofich Razumikhin, AKA the goodest boy:
+- Balanced, pragmatic; clearly represents Dostoevsky's own opinions.
 - Believes in working within reality to improve conditions. Values honest work and practical solutions over grand theories.
 - Traditional values: Represents honesty, loyalty, authenticity, friendship, and compassion.
 	- *"Razumikhin had the property of speaking the whole of himself out at once, whatever mood he was in."*
@@ -37,7 +37,7 @@ Razumikhin, AKA the goodest boy:
 - Against cancel culture (lol):
 	- *"Zametov is still a boy, I can rough him up, because he ought to be drawn in and not pushed away. **You won't set a person right by pushing him away, especially if he's a boy**. You have to be twice as careful with a boy. Eh, you progressive dimwits, you don't understand anything! **You disparage man and damage yourselves** ... "*
 
-Raskolnikov:
+Rodion Romanovich Raskolnikov:
 - Represents nihilism, utilitarian rationalism, corrupted idealism
 - "Extraordinary man" theory
 	- Divides humanity into "ordinary" and "extraordinary" people.
