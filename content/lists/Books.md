@@ -4,8 +4,9 @@ tags:
   - lists
 ---
 ## Reading now
-- [[Crime and Punishment]] (Fyodor Dostoyevsky)
-
+- Slow Productivity (Cal Newport)
+- Philosophy, Politics, and Economics (Gaus and Thrasher)
+- Children of Dune (Frank Herbert)
 ## To read
 
 ### Nonfiction
@@ -21,7 +22,6 @@ tags:
 - The Trees
 - Man's Search for Meaning
 - Intelligence and Spirit
-- Free to Learn
 
 ### Fiction
 
@@ -43,7 +43,6 @@ tags:
 ### Science fiction & fantasy
 
 - Fahrenheit 451 (Bradbury)
-- Children of Dune
 - A Memory Called Empire
 - Everything for Everyone
 - Chain Gang All Stars
@@ -67,6 +66,7 @@ tags:
 - Intermezzo (Sally Rooney)
 - Neuromancer (William Gibson)
 - [[Project Hail Mary]] (Andy Weir)
+- [[Crime and Punishment]] (Fyodor Dostoyevsky)
 
 ### 2024
 

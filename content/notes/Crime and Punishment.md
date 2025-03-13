@@ -10,12 +10,12 @@ draft: "false"
 ---
 ## Characters and ideologies in *Crime and Punishment*
 
-Pyotr Petrovich Luzhin:
+### Pyotr Petrovich Luzhin
 - Represents the shallow adoption of western liberalism, rational egoism, and utilitarianism without its ethical foundations.
 - *"Science says: Love yourself before all, because everything in the world is based on self-interest. If you love only yourself, you will set your affairs up properly, and your caftan will also remain in one piece. And economic truth adds that the more properly arranged personal affairs and, so to speak, whole caftans there are in society, the firmer its foundations are and the better arranged its common cause. It follows that by acquiring solely and exclusively for myself, I am thereby precisely acquiring for everyone, as it were, and working so that my neighbor will have something more than a torn caftan, not from private, isolated generosities now, but as a result of universal prosperity."*
 - Values wealth and social status above all else, and approaches relationships (including his engagement to Dunya) as transactions in which he seeks to maintain power and control.
 
-Andrei Semyonovitch Lebeziatnikov:
+### Andrei Semyonovitch Lebeziatnikov:
 - Represents radical nihilist and utopian socialist movements
 - Fascinated by communes, collective living, and the radical restructuring of society
 - Advocates for women's liberation, though his understanding is comically shallow
@@ -23,7 +23,8 @@ Andrei Semyonovitch Lebeziatnikov:
 	- *"He was one of that numerous and diverse legion of vulgarians, feeble miscreates, half-taught petty tyrants who make a point of instantly latching on to the most fashionable current idea, only to vulgarize it at once, to man an instant caricature of everything they themselves serve, sometimes quite sincerely."*
 - *"I only believe in the theory that there are no sacred rights at all, not that existing ones should be abused! The future commune will not need personal or property rights."*
 
-Dmitri Prokofich Razumikhin, AKA the goodest boy:
+### Dmitri Prokofich Razumikhin
+- AKA the goodest boy
 - Balanced, pragmatic; clearly represents Dostoevsky's own opinions.
 - Believes in working within reality to improve conditions. Values honest work and practical solutions over grand theories.
 - Traditional values: Represents honesty, loyalty, authenticity, friendship, and compassion.
@@ -42,7 +43,7 @@ Dmitri Prokofich Razumikhin, AKA the goodest boy:
 - Against cancel culture (lol):
 	- *"Zametov is still a boy, I can rough him up, because he ought to be drawn in and not pushed away. **You won't set a person right by pushing him away, especially if he's a boy**. You have to be twice as careful with a boy. Eh, you progressive dimwits, you don't understand anything! **You disparage man and damage yourselves** ... "*
 
-Rodion Romanovich Raskolnikov:
+### Rodion Romanovich Raskolnikov
 - Represents nihilism, utilitarian rationalism, corrupted idealism
 - "Extraordinary man" theory
 	- Divides humanity into "ordinary" and "extraordinary" people.
@@ -59,5 +60,5 @@ Rodion Romanovich Raskolnikov:
 - Nihilism:
 	- Rejects traditional moral and religious constraints, seeing them as tools that keep "ordinary" people in check.
 
-Zossimov: 
-- Just like me fr: *"Having noted upon entering how dazzlingly beautiful Avdotya Romanovna was, he immediately tried not to pay her any notice during the whole time of his visit"*
+### Zossimov
+- He just like me fr: *"Having noted upon entering how dazzlingly beautiful Avdotya Romanovna was, he immediately tried not to pay her any notice during the whole time of his visit"*
