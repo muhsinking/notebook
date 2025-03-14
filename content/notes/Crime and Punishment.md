@@ -8,7 +8,7 @@ tags:
   - religion
 draft: "false"
 ---
-## Characters and ideologies in *Crime and Punishment*
+## Characters and ideologies of *Crime and Punishment*
 
 ### Pyotr Petrovich Luzhin
 - Represents the shallow adoption of western liberalism, rational egoism, and utilitarianism without its ethical foundations.

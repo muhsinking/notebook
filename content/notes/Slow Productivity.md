@@ -2,14 +2,12 @@
 tags:
   - work
   - books
-  - reviews
   - living
-  - tech
   - frameworks
 draft: "false"
-date: 2025-03-13
+date: 2025-03-14
 ---
-A self-help book for the modern day laptop worker and/or [[Help Wanted and The Burnout Society|Achievement Subject]]. I'm a low-key fan of Cal Newport, having read and experimented with advice from his books *Deep Work* and *Digital Minimalism* back in 2019. While it's a very easy read,[^1] using extremely simple language and evocative anecdotes, I felt like this book was a bit thinner than his prior works. Still, there were some useful kernels, which I've tried to distill below.
+A self-help book for the modern day laptop worker and/or [[Help Wanted and The Burnout Society|achievement subject]]. I'm a low-key fan of Cal Newport, having read and experimented with advice from his books *Deep Work* and *Digital Minimalism* back in 2019. While it's a very easy read,[^1] using extremely simple language and evocative anecdotes, I felt like this book was a bit thinner than his prior works. Still, there were some useful kernels, which I've tried to distill below.
 
 Like any self-help book, this book is utterly useless if you don't undertake the much more difficult step of actually applying Newport's [[Frameworks for understanding|frameworks]]. Otherwise, reading self-help is just another form of pseudoproductivity.
 ## Intro
@@ -20,7 +18,7 @@ Like any self-help book, this book is utterly useless if you don't undertake the
 
 ## Do fewer things
 
-> Strive to reduce your obligations to the point where you can easily imagine accomplishing them with time to spare. Leverage this reduced load to more fully embrace and advance the small number of projects that matter most.
+> *Strive to reduce your obligations to the point where you can easily imagine accomplishing them with time to spare. Leverage this reduced load to more fully embrace and advance the small number of projects that matter most.*
 
 - **Overhead tax:** Every commitment (minor tasks, large projects) brings with it some ongoing **administrative overhead**.
 	- Back and forth email thread, sync meetings, etc.
@@ -70,7 +68,7 @@ Like any self-help book, this book is utterly useless if you don't undertake the
 
 ## Work at a natural pace
 
-> Don't rush your most important work. Allow it instead to unfold along a sustainable timeline, with variations in intensity, in settings conducive to brilliance.
+> *Don't rush your most important work. Allow it instead to unfold along a sustainable timeline, with variations in intensity, in settings conducive to brilliance.*
 
 - **Make a five-year plan**
 - **Double project timelines**
@@ -96,7 +94,7 @@ Like any self-help book, this book is utterly useless if you don't undertake the
 
 ## Obsess over quality
 
-> Obsess over the quality of what you produce, even if this means missing opportunities in the short term. Leverage the value of these results to gain more and more freedom in your efforts over the long term.
+> *Obsess over the quality of what you produce, even if this means missing opportunities in the short term. Leverage the value of these results to gain more and more freedom in your efforts over the long term.*
 
 - **Improve your taste**
 	- Immerse yourself in appreciation for fields that are different from your own.
