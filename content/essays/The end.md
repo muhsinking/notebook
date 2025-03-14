@@ -17,15 +17,15 @@ _John (right) and Phil (baby)_
 
 My uncle John died a couple weeks ago, on his 82nd birthday. I didn’t know him that well, even though we saw each other at least twice a year for all 30 years of my life, sharing a couch in my grandparents’ living room at Christmas or eating together at Thanksgiving. I want there to be a good reason for why we never formed a strong connection, but I think I was just too young and self absorbed to make a conscious effort to get to know him before his health deteriorated around ten years ago. After it had, I started to feel sheepish around him; I didn’t want to disturb his already-tenuous peace.
 
-Now he’s gone, and I feel sad that I didn’t take one of the many chances I had to properly get to know him. Could I have done any differently? Maybe, if I was a different, better person. But I wasn’t, so I didn’t.
+Now he’s gone, and I feel sad that I didn’t take advantage of the many, many chances I had to get to know him better. Could I have done any differently? Maybe, if I was a different, better person. But I wasn’t, and I didn’t.
 
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F469f41b9-c213-4a0b-a554-e4c0b33c66fb_966x819.jpeg)
 _John (right) & Helene (his daughter) at my parents’ wedding (left)_
 
-I don’t think our culture gives us very good tools for dealing with death—neither the passing of friends or relatives, or our own eventual demise. Death is largely ignored, while aging is seen as a problem to be solved, with a healthy diet, exercise, and an ever-widening array of obscure supplements & skincare products. I don’t think there’s anything wrong with trying to stay hot & healthy _[I reapplied sunscreen in the middle of writing this paragraph]_, but I think that in the absence of a robust social infrastructure, the ways we’ve come to think about aging and death are not helping us manage the _actual_ problem, which is that they probably _can’t_ be solved, and that we just have to [deal with it](https://www.youtube.com/watch?v=7PmotSxxh68).
+Modern culture doesn't provide us with very effective tools for dealing with death—neither the passing of friends and relatives, or our own eventual demise. Death, as an ever-present reality, the singular point towards which we are all slowly (or quickly) inching, is largely ignored, to the degree that it's often considered impolite (or at the very least "quirky") to discuss. Aging, meanwhile, we treat like a problem to be solved, with a healthy diet, exercise, and an ever-expanding array of obscure supplements & skincare products. There’s nothing wrong with trying to stay hot & healthy _[I reapplied sunscreen in the middle of writing this paragraph]_, but we've become shockingly bad at preparing ourselves, mentally, for the problem of death—a problem which, in all likelihood, cannot be solved.
 
-I tried to classify the attitudes toward mortality that I most often see among the young folks (20-35) in my life, and in the spaces I inhabit online, and I came up with three broad categories:
+In an attempt to more fully diagnose this issue, I came up with three broad categories to classify the attitudes toward mortality that I've witnessed among my cultural cohort:
 
 1. Self-imposed ignorance (“I just try not to think about it”).
 2. Denial; something to overcome (“Rage against the dying of the light”).

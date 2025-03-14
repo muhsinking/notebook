@@ -59,7 +59,7 @@ Everything happens for a reason, and the reason is that you are special. God, Fa
 
 Your partner dumped you? You dodged a bullet; clearly they weren't The One. Injured? Remember, what doesn’t kill you makes you stronger.
 
-Unlike the first story, this one rarely has much truth to it. It's simply impossible to know whether anything that happens is actually “for the best”, and that some other chain of events wouldn’t have lead to a happier outcome.
+Unlike the first story, this one rarely has much truth to it. It's [[Maybe so maybe not|impossible to know]] whether anything that happens is actually “for the best”, and that some other chain of events wouldn’t have lead to a happier outcome.
 
 Take my rejected job application—who could possibly say definitively whether this was "for the best"? I might have been incredibly happy working at [company], or unspeakably miserable. Maybe getting rejected saved my life, because I was fated to get hit by a bus on my way to orientation. Or maybe NOW I’m going to get hit by a bus, and I would have been spared if only I was working from home. Ahhh!
 

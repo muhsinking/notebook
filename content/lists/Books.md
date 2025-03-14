@@ -4,7 +4,7 @@ tags:
   - lists
 ---
 ## Reading now
-- Slow Productivity (Cal Newport)
+
 - Philosophy, Politics, and Economics (Gaus and Thrasher)
 - Children of Dune (Frank Herbert)
 ## To read
@@ -67,6 +67,7 @@ tags:
 - Neuromancer (William Gibson)
 - [[Project Hail Mary]] (Andy Weir)
 - [[Crime and Punishment]] (Fyodor Dostoyevsky)
+- [[Slow Productivity]] (Cal Newport)
 
 ### 2024
 
