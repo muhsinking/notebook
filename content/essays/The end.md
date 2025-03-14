@@ -23,9 +23,9 @@ Now he’s gone, and I feel sad that I didn’t take advantage of the many, many
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F469f41b9-c213-4a0b-a554-e4c0b33c66fb_966x819.jpeg)
 _John (right) & Helene (his daughter) at my parents’ wedding (left)_
 
-Modern culture doesn't provide us with very effective tools for dealing with death—neither the passing of friends and relatives, or our own eventual demise. Death, as an ever-present reality, the singular point towards which we are all slowly (or quickly) inching, is largely ignored, to the degree that it's often considered impolite (or at the very least "quirky") to discuss. Aging, meanwhile, we treat like a problem to be solved, with a healthy diet, exercise, and an ever-expanding array of obscure supplements & skincare products. There’s nothing wrong with trying to stay hot & healthy _[I reapplied sunscreen in the middle of writing this paragraph]_, but we've become shockingly bad at preparing ourselves, mentally, for the problem of death—a problem which, in all likelihood, cannot be solved.
+Modern culture doesn't provide us with very effective tools for dealing with death—neither the passing of friends and relatives, or our own eventual demise. Death, as an ever-present reality, the singular point towards which we are all slowly (or quickly) inching, is largely ignored, to the degree that it's often considered impolite (or at the very least "quirky") to discuss. Aging, meanwhile, we treat like a problem to be solved, with a healthy diet, exercise, and an ever-expanding array of obscure supplements & skincare products. There’s nothing wrong with trying to stay hot & healthy _[I reapplied sunscreen in the middle of writing this paragraph]_, but we've become shockingly bad at preparing ourselves for the problem of death—a problem which, in all likelihood, cannot be solved.
 
-In an attempt to more fully diagnose this issue, I came up with three broad categories to classify the attitudes toward mortality that I've witnessed among my cultural cohort:
+In an attempt to more fully diagnose this issue, I came up with three broad categories to classify the attitudes toward mortality that I've witnessed amongst my cultural cohort:
 
 1. Self-imposed ignorance (“I just try not to think about it”).
 2. Denial; something to overcome (“Rage against the dying of the light”).
@@ -56,7 +56,7 @@ Then there are those who would deny aging while accepting death, aspiring to “
 
 ## Fear of death
 
-Aging and death are not fun. No one would voluntarily give up the boundless energy or speedy healing that came naturally to us when we were younger. Many folks my age are already starting to stiffen, our desk jobs (and desk hobbies) and irregular exercise habits catching up to us. For my older relatives, time seems to have stiffened too, their calendars calcifying around the many responsibilities of middle age. It makes perfect sense to be afraid of these changes.
+Aging and death are not fun. No one would voluntarily give up the boundless energy or fast healing that came naturally to us when we're young. Many folks my age are already starting to stiffen, our desk jobs (and desk hobbies) and irregular exercise habits catching up to us. For my older relatives, time seems to have stiffened too, their calendars calcifying around the many responsibilities of middle age. It makes perfect sense to be afraid of these changes.
 
 Besides disability and death, you might also fear that you won’t accomplish the things you want to before some deadline. Many of these deadlines are self-imposed or arbitrary—you’re never _really_ too old to publish a book, to go back to school, or to go solo traveling. But there are non-arbitrary deadlines too: the so-called “biological clock”, and more superficial (but no less real) deadlines like: Are you too old to become an olympic athlete? _[Yes.]_ To climb Mt. Everest? _[No, but I don’t want to.]_ Are you about to get kicked off of your parents’ health plan? _[Fuck our healthcare system fr.]_
 
@@ -96,7 +96,7 @@ In The Anthropocene Reviewed, John Green writes about his encounter with a Cool 
 
 > *Marveling at the perfection of that leaf, I was reminded that aesthetic beauty is as much about how and whether you look as what you see. From the quark to the supernova, the wonders do not cease. It is our attentiveness that is in short supply, our ability and willingness to do the work that awe requires.*
 
-Human beings are the same. There’s an infinite well of beauty that can be accessed—or created—through our relationships with other people, if only we can find the ability and willingness to do the work that love requires.
+Human beings are the same. There’s an infinite well of beauty that can be accessed and created through our relationships with other people, if only we can find the ability and willingness to do the work that love requires.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc062aee2-0c7d-4663-b62d-9bb5422add5a_1084x1440.jpeg)
 *John & Joe*
