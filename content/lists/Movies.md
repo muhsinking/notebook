@@ -103,4 +103,4 @@ tags:
 - Bottoms
 - Past Lives
 - Palm Springs
-- [[Sorry to Bother You|Sorry to Bother You]]
+- [[Severance season 2|Sorry to Bother You]]

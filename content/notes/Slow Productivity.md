@@ -114,15 +114,15 @@ Like any self-help book, this book is utterly useless if you don't undertake the
 	- Announce a schedule to add accountability pressure.
 	- Attract an investor (also for accountability).
 	
-## What I'm going to implement
+## What I'm going to try
 
 - Put as many tasks on autopilot as I possibly can (self-reminder to call landlord and set up autopay for rent...)
 - Spend money on subscriptions and tools when it makes sense.
-	- Grammarly for tech writing work.
-	- Consider getting a Claude subscription.
-- Create a pull-list workflow, both for job-stuff and creative projects.
+	- Get Grammarly for my job.
+	- Test drive a Claude subscription.
+- Create a pull-list workflow, both for my job and creative projects.
 - Simplify existing task engines (e.g. newsletter, potluck invites, etc.)
 - Block off time (and a physical space) to work on essay writing.
-- Rearrange & decorate desk for a more "poetic" working environment.
+- Rearrange & redecorate desk for a more "poetic" working environment.
 
 [^1]: Might just be saying this because I started this book immediately after [[Crime and Punishment]].

@@ -5,8 +5,8 @@ tags:
 ---
 ## Reading now
 
-- Philosophy, Politics, and Economics (Gaus and Thrasher)
 - Children of Dune (Frank Herbert)
+- Philosophy, Politics, and Economics (Gaus and Thrasher)
 ## To read
 
 ### Nonfiction

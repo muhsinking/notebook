@@ -1,6 +1,7 @@
 ---
 date: 2025-02-22
 tags:
+  - writing
 ---
 I’ve been publishing essays on [Substack](https://potluckpress.substack.com) for two years now, and I've noticed some consistent themes and patterns emerge in my writing. More and more, I find myself wanting to revisit past work—to refine ideas, build on them, and let them **inform future writing and action**.
 
@@ -20,4 +21,4 @@ The second reason is that **I unironically love [[Information architecture|infor
  
 The third reason is hopeless vanity.
 
-[^1]: Huge thanks to [Jack Zhao](jzhao.xyz) for creating this one.
+[^1]: Huge thanks to [Jacky Zhao](jzhao.xyz) for creating this one.
