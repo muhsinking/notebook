@@ -100,5 +100,5 @@ tags:
 - Brave New World
 - Children of Ruin
 - [[The Love Affairs of Nathaniel P.]]
-- The Science of Storytelling (Will Storr)
+- [[The Science of Storytelling]] (Will Storr)
 - Silk Roads
