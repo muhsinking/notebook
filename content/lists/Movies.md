@@ -83,7 +83,11 @@ tags:
 - The Master
 - Encanto
 - Tokyo Godfathers (2003)
-- 12 Angry Men (1997)
+- 12 Angry Men (1997) [DNF]
+- Heat (1995)
+- Scarface
+- Princess Mononoke
+- Big Trouble in Little China
 ### 2024
 - Furiosa
 - Frances Ha

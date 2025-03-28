@@ -5,8 +5,7 @@ tags:
 ---
 ## Reading now
 
-- Children of Dune (Frank Herbert)
-- Philosophy, Politics, and Economics (Gaus and Thrasher)
+- Snow Crash
 ## To read
 
 ### Nonfiction
