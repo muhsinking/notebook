@@ -26,9 +26,9 @@ tags:
 
 - Stoner (John Williams)
 - Another Country (James Baldwin)
-- Remains of the Day (Ishiguro)
+- Remains of the Day (Kazuo Ishiguro)
 - Of Mice and Men
-- A Little Life
+- A Little Life (Hanya Yanagihara)
 - White Teeth (Zadie Smith)
 - A Course of Love
 - Don Quixote
@@ -46,17 +46,17 @@ tags:
 - Everything for Everyone
 - Chain Gang All Stars
 - Scholomance (Naomi Novik)
-- Hand of the Emperor (Wahi recommends)
+- Hand of the Emperor [Wahi recommends]
 
 ### Philosophy
 
 - Capitalist Realism (Mark Fisher)
-- Keiji Nishitani (The Self-Overcoming of Nihilism + Religion & Nothingness)
-- Albert Camus (The Myth of Sisyphus)
-- Simone Weil (Waiting for God)
+- The Self-Overcoming of Nihilism + Religion & Nothingness (Keiji Nishitani)
+- The Myth of Sisyphus + The Stranger (Albert Camus)
+- Waiting for God (Simone Weil)
 - The Structure of Scientific Revolutions (Khun)
-- Nietzsche (Thus Spoke Zarathustra)
-- Kierkegaard (Either / Or)
+- Thus Spoke Zarathustra (Nietzsche)
+- Either/Or (Kierkegaard)
 
 ## Finished
 
@@ -67,37 +67,38 @@ tags:
 - [[Project Hail Mary]] (Andy Weir)
 - [[Crime and Punishment]] (Fyodor Dostoyevsky)
 - [[Slow Productivity]] (Cal Newport)
+- Children of Dune (Frank Herbert) [DNF]
 
 ### 2024
 
-- The Odyssey
-- Saving Time
-- Piranesi
-- My Year of Rest and Relaxation
+- The Odyssey (translated by Emily Wilson)
+- Saving Time (Jenny Odell)
+- Piranesi (Susanna Clarke)
+- My Year of Rest and Relaxation (Ottessa Moshfegh)
 - On Earth We're Briefly Gorgeous
 - The Year of Magical Thinking
-- [[The Denial of Death]]
-- Glass Hotel
+- [[The Denial of Death]] (Ernest Becker)
+- Glass Hotel (Emily St. John Mandell)
 - How Should a Person Be? (Shiela Heti)
-- Something That May Shock and Discredit You
+- Something That May Shock and Discredit You (Daniel M. Lavery)
 - [[Help Wanted and The Burnout Society|Help Wanted]] (Adelle Waldman)
 - [[Help Wanted and The Burnout Society|The Burnout Society]] (Byung-Chul Han)
 - [[The Status Game]] (Will Storr)
-- Martyr!
-- Sublime Object of Ideology (Zizek)
-- Consider the Lobster (DFW)
-- [[A Long Way to a Small, Angry Planet]]
-- Bliss Montage
+- Martyr! (Kaveh Akbar)
+- [[Escaping ideology|The Sublime Object of Ideology]] (Zizek) [DNF]
+- Consider the Lobster (David Foster Wallace)
+- [[A Long Way to a Small, Angry Planet]] [DNF]
+- Bliss Montage (Ling Ma)
 - Translation state (Ann Leckie)
-- Debt: The First 5,000 Years
-- Utopia of Rules
-- The Buried Giant (Ishiguro)
-- Demon Copperhead
-- [[Pachinko]]
+- Debt: The First 5,000 Years (David Graeber)
+- Utopia of Rules (David Graeber)
+- The Buried Giant (Kazuo Ishiguro)
+- Demon Copperhead (Barbara Kingsolver)
+- [[Pachinko]] (Min Jin Lee)
 - Unlimited Memory
 - Wild Swans
-- Brave New World
-- Children of Ruin
-- [[The Love Affairs of Nathaniel P.]]
+- Brave New World (Aldous Huxley)
+- Children of Ruin (Adrian Tchaikovsky)
+- [[The Love Affairs of Nathaniel P.]] (Adelle Waldman) [Reread]
 - [[The Science of Storytelling]] (Will Storr)
-- Silk Roads
+- Silk Roads [DNF]
