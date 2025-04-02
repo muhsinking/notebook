@@ -5,7 +5,7 @@ tags:
   - quotes
 date: 2025-03-17
 ---
-Excerpts from *The Science of Storytelling* by Will Storr (not in order of appearance).
+Quotes from *The Science of Storytelling* by Will Storr (not in order of appearance).
 
 ## Intro
 
@@ -24,7 +24,7 @@ Excerpts from *The Science of Storytelling* by Will Storr (not in order of appea
 
 > Good stories are explorations of the human condition; thrilling voyages into foreign minds. They’re not so much about events that take place on the surface of the drama as they are about the characters that have to battle them. Those characters, when we meet them on page one, are never perfect. What arouses our curiosity about them, and provides them with a dramatic battle to fight, is not their achievements or their winning smile. It’s their flaws.
 
-## Sociality
+## Human sociality
 
 > Researchers such as Hood argue that modern humans have gone through a process of ‘self-domestication’. Support for the idea comes partly from the fact that, over the last 20,000 years, our brains have shrunk by between ten and fifteen per cent, the same reduction that’s been observed in all the thirty or so other animals that humans have domesticated. Just as with those creatures, our domestication means we’re tamer than our ancestors, better at reading social signals and more dependent on others.
 

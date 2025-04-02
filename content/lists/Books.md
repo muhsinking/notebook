@@ -5,7 +5,8 @@ tags:
 ---
 ## Reading now
 
-- Snow Crash
+- Philosophy, Politics, and Economics (Gaus and Thrasher)
+- Snow Crash (Neal Stepehnson) [Reread]
 ## To read
 
 ### Nonfiction
