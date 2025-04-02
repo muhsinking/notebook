@@ -71,7 +71,6 @@ tags:
 
 - Harvey (1950)
 - 12 Angry Men (1957)
-- It's a Wonderful Life (1946)
 - Rashomon (1950)
 - Seven Samurai (1954)
 - The Hidden Fortress (1958)
@@ -82,8 +81,17 @@ tags:
 ### 2025
 - The Master
 - Encanto
+- [[Whacky Snacky Jackie Chan|Half a Loaf of Kung Fu]] (1978)
 - Tokyo Godfathers (2003)
-- 12 Angry Men (1997)
+- 12 Angry Men (1997) [DNF]
+- Heat (1995)
+- Scarface
+- Princess Mononoke
+- Big Trouble in Little China
+- Spiritual Kung Fu (1978)
+- It's a Wonderful Life (1946)
+- Goodfellas (1990)
+
 ### 2024
 - Furiosa
 - Frances Ha
