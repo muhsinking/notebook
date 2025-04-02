@@ -11,7 +11,7 @@ A culinary and cinematic experiment unlike any other, Wacky Snacky Jackie Chan (
 1. The filmography of Jackie Chan
 2. Unusual snacks
 
-Some might call these snacks _unnecessary_, but they would be sadly mistaken. Wacky snacks are the hallmark of an advanced society—a bellwether of our relentless pursuit of greatness, excess, and decadence. Just as humanity, having conquered soil and sea, reached for Everest and then the stars, so too did we transcend the humble Cheez-It to create the Extra Toasty Cheez-It, the Extra Cheesy Cheez-It, the Extra Crunchy Bold Cheddar Cheez-It—and so on. It's in this Pursuit of Wackiness that we attain ever more daring heights of deliciousness and depravity, expanding our understanding of truth, beauty, and freedom.
+Some might call these snacks _unnecessary_, but they would be sadly mistaken. Wacky snacks are the hallmark of an advanced society, a bellwether of our relentless pursuit of greatness, excess, and decadence. Just as humankind, having conquered soil and sea, reached for Everest and then the stars, so too did we transcend the humble Cheez-It to create the Extra Toasty Cheez-It, the Extra Cheesy Cheez-It, the Extra Crunchy Bold Cheddar Cheez-It—and so on. It is in the Pursuit of Wackiness that we attain ever more daring heights of deliciousness and depravity, expanding our understanding of truth, beauty, and freedom.
 
 At the inaugural gathering for WSJC, participants arrived armed with an arsenal of eccentric edibles, ranging from mildly intriguing to utterly cursed. What follows is an unflinching review of the night’s most memorable (and regrettable) bites.
 
