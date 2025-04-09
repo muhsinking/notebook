@@ -91,6 +91,9 @@ tags:
 - Spiritual Kung Fu (1978)
 - It's a Wonderful Life (1946)
 - Goodfellas (1990)
+- Kiki's Delivery Service (1989)
+- Nausicaa of the Valley of the Wind (1984)
+- [[Civil War]] (2024)
 
 ### 2024
 - Furiosa
