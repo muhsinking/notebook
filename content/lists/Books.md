@@ -5,8 +5,8 @@ tags:
 ---
 ## Reading now
 
-- Philosophy, Politics, and Economics (Gaus and Thrasher)
-- Snow Crash (Neal Stepehnson) [Reread]
+- [[Snow Crash]] (Neal Stephenson)
+- A Gentleman in Moscow (Amor Towles)
 ## To read
 
 ### Nonfiction
@@ -27,9 +27,9 @@ tags:
 
 - Stoner (John Williams)
 - Another Country (James Baldwin)
-- Remains of the Day (Kazuo Ishiguro)
+- Remains of the Day (Ishiguro)
 - Of Mice and Men
-- A Little Life (Hanya Yanagihara)
+- A Little Life
 - White Teeth (Zadie Smith)
 - A Course of Love
 - Don Quixote
@@ -47,17 +47,17 @@ tags:
 - Everything for Everyone
 - Chain Gang All Stars
 - Scholomance (Naomi Novik)
-- Hand of the Emperor [Wahi recommends]
+- Hand of the Emperor (Wahi recommends)
 
 ### Philosophy
 
 - Capitalist Realism (Mark Fisher)
-- The Self-Overcoming of Nihilism + Religion & Nothingness (Keiji Nishitani)
-- The Myth of Sisyphus + The Stranger (Albert Camus)
-- Waiting for God (Simone Weil)
+- Keiji Nishitani (The Self-Overcoming of Nihilism + Religion & Nothingness)
+- Albert Camus (The Myth of Sisyphus)
+- Simone Weil (Waiting for God)
 - The Structure of Scientific Revolutions (Khun)
-- Thus Spoke Zarathustra (Nietzsche)
-- Either/Or (Kierkegaard)
+- Nietzsche (Thus Spoke Zarathustra)
+- Kierkegaard (Either / Or)
 
 ## Finished
 
@@ -72,34 +72,34 @@ tags:
 
 ### 2024
 
-- The Odyssey (translated by Emily Wilson)
-- Saving Time (Jenny Odell)
-- Piranesi (Susanna Clarke)
-- My Year of Rest and Relaxation (Ottessa Moshfegh)
+- The Odyssey
+- Saving Time
+- Piranesi
+- My Year of Rest and Relaxation
 - On Earth We're Briefly Gorgeous
 - The Year of Magical Thinking
-- [[The Denial of Death]] (Ernest Becker)
-- Glass Hotel (Emily St. John Mandell)
+- [[The Denial of Death]]
+- Glass Hotel
 - How Should a Person Be? (Shiela Heti)
-- Something That May Shock and Discredit You (Daniel M. Lavery)
+- Something That May Shock and Discredit You
 - [[Help Wanted and The Burnout Society|Help Wanted]] (Adelle Waldman)
 - [[Help Wanted and The Burnout Society|The Burnout Society]] (Byung-Chul Han)
 - [[The Status Game]] (Will Storr)
-- Martyr! (Kaveh Akbar)
-- [[Escaping ideology|The Sublime Object of Ideology]] (Zizek) [DNF]
-- Consider the Lobster (David Foster Wallace)
-- [[A Long Way to a Small, Angry Planet]] [DNF]
-- Bliss Montage (Ling Ma)
+- Martyr!
+- Sublime Object of Ideology (Zizek)
+- Consider the Lobster (DFW)
+- [[A Long Way to a Small, Angry Planet]]
+- Bliss Montage
 - Translation state (Ann Leckie)
-- Debt: The First 5,000 Years (David Graeber)
-- Utopia of Rules (David Graeber)
-- The Buried Giant (Kazuo Ishiguro)
-- Demon Copperhead (Barbara Kingsolver)
-- [[Pachinko]] (Min Jin Lee)
+- Debt: The First 5,000 Years
+- Utopia of Rules
+- The Buried Giant (Ishiguro)
+- Demon Copperhead
+- [[Pachinko]]
 - Unlimited Memory
 - Wild Swans
-- Brave New World (Aldous Huxley)
-- Children of Ruin (Adrian Tchaikovsky)
-- [[The Love Affairs of Nathaniel P.]] (Adelle Waldman) [Reread]
+- Brave New World
+- Children of Ruin
+- [[The Love Affairs of Nathaniel P.]]
 - [[The Science of Storytelling]] (Will Storr)
-- Silk Roads [DNF]
+- Silk Roads
