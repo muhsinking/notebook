@@ -1,1 +1,0 @@
-Ideas for how to live well.
