@@ -5,8 +5,8 @@ tags:
 ---
 ## Reading now
 
-- [[Snow Crash]] (Neal Stephenson)
-- A Gentleman in Moscow (Amor Towles)
+- The Secret History (Donna Tartt)
+
 ## To read
 
 ### Nonfiction
@@ -35,7 +35,6 @@ tags:
 - Don Quixote
 - Exit West (Mohsin Hamid)
 - A Picture of Dorian Grey
-- The Secret History
 - City of Thieves
 - A Visit from the Goon Squad
 - Free Food for Millionaires (Min Jin Lee)
@@ -69,6 +68,7 @@ tags:
 - [[Crime and Punishment]] (Fyodor Dostoyevsky)
 - [[Slow Productivity]] (Cal Newport)
 - Children of Dune (Frank Herbert) [DNF]
+- [[Snow Crash]] (Neal Stephenson)
 
 ### 2024
 

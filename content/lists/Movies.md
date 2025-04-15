@@ -51,14 +51,14 @@ tags:
 
 ### 1980s
 
-- Amadeus (1984)
-- The Dark Crystal (1982)
 - Dragonslayer (1981)
+- The Dark Crystal (1982)
+- Amadeus (1984)
+- Police Story (1985)
 - Dirty Dancing (1987)
 - They Live (1988)
 - Bill & Ted’s Excellent Adventure (1989)
 - The Cook, the Thief, His Wife & Her Lover (1989)
-- Police Story (1985)
 
 ### 1960s-1970s
 
@@ -66,21 +66,24 @@ tags:
 - Funeral Parade of Roses (1969)
 - The Godfather (1972)
 - The Godfather Part II (1974)
+- Hausu (1977)
+- The Deer Hunter (1978)
 
 ### 1920s-1950s
 
 - Harvey (1950)
-- 12 Angry Men (1957)
 - Rashomon (1950)
 - Seven Samurai (1954)
-- The Hidden Fortress (1958)
+- 12 Angry Men (1957)
 - Throne of Blood (1957)
+- The Hidden Fortress (1958)
 
 ## Watched
 
 ### 2025
 - The Master
 - Encanto
+- No Other Land
 - [[Whacky Snacky Jackie Chan|Half a Loaf of Kung Fu]] (1978)
 - Tokyo Godfathers (2003)
 - 12 Angry Men (1997) [DNF]
@@ -93,7 +96,8 @@ tags:
 - Goodfellas (1990)
 - Kiki's Delivery Service (1989)
 - Nausicaa of the Valley of the Wind (1984)
-- [[Civil War] (2024)
+- Civil War (2024)
+- Casablanca (1942)
 
 ### 2024
 - Furiosa
