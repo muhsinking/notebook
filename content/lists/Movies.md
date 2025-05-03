@@ -98,6 +98,8 @@ tags:
 - Nausicaa of the Valley of the Wind (1984)
 - Civil War (2024)
 - Casablanca (1942)
+- House (1977)
+- Eyes Wide Shut (1999)
 
 ### 2024
 - Furiosa

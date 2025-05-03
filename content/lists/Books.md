@@ -5,7 +5,7 @@ tags:
 ---
 ## Reading now
 
-- The Secret History (Donna Tartt)
+- All Fours (Miranda July)
 
 ## To read
 
@@ -38,6 +38,7 @@ tags:
 - City of Thieves
 - A Visit from the Goon Squad
 - Free Food for Millionaires (Min Jin Lee)
+- Abundance (Ezra Klein)
 
 ### Science fiction & fantasy
 
@@ -69,6 +70,7 @@ tags:
 - [[Slow Productivity]] (Cal Newport)
 - Children of Dune (Frank Herbert) [DNF]
 - [[Snow Crash]] (Neal Stephenson)
+- The Secret History (Donna Tartt)
 
 ### 2024
 
