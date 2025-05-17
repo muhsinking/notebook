@@ -27,15 +27,15 @@ Immanent: Present; existing in something.
 
 Abnegation: The act of renouncing or rejecting something.
 
-Trenchant: vigorous or incisive in expression or style
+Trenchant: vigorous or incisive in expression or style.
 
-Benighted: a state of pitiful or contemptible intellectual or moral ignorance
+Benighted: a state of pitiful or contemptible intellectual or moral ignorance.
 
-Parochial: limited or narrow in outlook or scope
+Parochial: limited or narrow in outlook or scope.
 
-Atavistic: relating to or characterized by reversion to something ancient or ancestral
+Atavistic: relating to or characterized by reversion to something ancient or ancestral.
 
-Sanguine: optimistic or positive, especially in a bad or difficult situation
+Sanguine: optimistic or positive, especially in a bad or difficult situation.
 
 Deracination: uproot; to remove or separate from a native environment or culture; especially to remove the racial or ethnic characteristics or influences from.
 
