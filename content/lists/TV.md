@@ -3,6 +3,7 @@ tags:
   - lists
   - TV
 ---
+
 ## To watch
 
 ### High priority
@@ -13,8 +14,9 @@ tags:
 - Love is War (Crunchyroll)
 - Dan Da Dan
 - Normal People (Hulu)
-### Low priority
+- Common Side Effects (HBO Max)
 
+### Low priority
 - Parasyte (Hulu)
 - Star Trek Strange New Worlds Season 2
 - Cyberpunk: Edgerunners (Netflix)
@@ -40,7 +42,7 @@ tags:
 ## 2025
 - [[Severance season 2|Severance S2]]
 - Sex and the City S1-2
-- [[Pachinko|Pachinko]] S1-2
+- [[Pachinko]] S1-2
 
 ## 2024
 - Blue Eye Samurai
@@ -56,6 +58,7 @@ tags:
 ### 2023
 - Andor
 - Fleabag S1-2 (rewatch)
+
 ### 2022
 - Squid Games
 - The Expanse

@@ -8,14 +8,12 @@ tags:
 ### 2020s
 
 - The Brutalist (2024)
-- Civil War (2024)
 - Ferrari (2023)
 - Asteroid City (2023)
 - Kalki 2898 (2024)
 - Space Sweepers (2021)
 - Demon (2021)
 - The Conclave (2024)
-- The Substance (2024)
 - NOPE (2022)
 - Flow (2024)
 - Wild Robot (2024)
@@ -37,7 +35,6 @@ tags:
 - Lost in Translation (2003)
 - Shaun the Sheep (2007)
 - The Fall (2006)
-- The Royal Tenenbaums (2001)
 - The Life Aquatic with Steve Zissou (2004)
 - The Pianist (2002)
 
@@ -66,7 +63,6 @@ tags:
 - Funeral Parade of Roses (1969)
 - The Godfather (1972)
 - The Godfather Part II (1974)
-- Hausu (1977)
 - The Deer Hunter (1978)
 
 ### 1920s-1950s
@@ -98,8 +94,11 @@ tags:
 - Nausicaa of the Valley of the Wind (1984)
 - Civil War (2024)
 - Casablanca (1942)
+- The Royal Tenenbaums (2001)
 - House (1977)
 - Eyes Wide Shut (1999)
+- In the Loop (2009)
+- The Substance (2024)
 
 ### 2024
 - Furiosa
