@@ -100,6 +100,8 @@ tags:
 - Eyes Wide Shut (1999)
 - In the Loop (2009)
 - The Substance (2024)
+- His Girl Friday (1940)
+- Moonstruck (1988)
 
 ### 2024
 - Furiosa

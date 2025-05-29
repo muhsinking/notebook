@@ -22,6 +22,7 @@ tags:
 - The Trees
 - Man's Search for Meaning
 - Intelligence and Spirit
+- The Idea of Justice (Amartya Sen)
 
 ### Fiction
 
