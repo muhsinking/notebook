@@ -58,6 +58,7 @@ tags:
 - Bill & Ted’s Excellent Adventure (1989)
 - The Cook, the Thief, His Wife & Her Lover (1989)
 
+
 ### 1960s-1970s
 
 - 1000 Clowns (1965)
@@ -65,6 +66,8 @@ tags:
 - The Godfather (1972)
 - The Godfather Part II (1974)
 - The Deer Hunter (1978)
+- All that Jazz (1979)
+- Jaws (1975)
 
 ### 1920s-1950s
 
@@ -101,8 +104,12 @@ tags:
 - In the Loop (2009)
 - The Substance (2024)
 - The Cook, The Thief, His Wife, and Her Lover (1989)
+- Rashomon (1950)
 - His Girl Friday (1940)
 - Moonstruck (1988)
+- Fearless Hyena
+- Fearless Hyena 2
+- Bringing Up Baby (1938)
 
 ### 2024
 - Furiosa

@@ -5,7 +5,9 @@ tags:
 ---
 ## Reading now
 
-- All Fours (Miranda July)
+- The Myth of Sisyphus (Albert Camus)
+- Essentialism (Greg McKeown)
+- How to Write One Song (Jeff Tweedy)
 
 ## To read
 
@@ -14,7 +16,6 @@ tags:
 - The Conquest of Cool
 - The Extinction of Experience
 - H is for Hawk
-- How to Write One Song
 - The Other Significant Others
 - The Solutions are Already Here
 - The Real Estate State
@@ -54,7 +55,6 @@ tags:
 
 - Capitalist Realism (Mark Fisher)
 - Keiji Nishitani (The Self-Overcoming of Nihilism + Religion & Nothingness)
-- Albert Camus (The Myth of Sisyphus)
 - Simone Weil (Waiting for God)
 - The Structure of Scientific Revolutions (Khun)
 - Nietzsche (Thus Spoke Zarathustra)
@@ -72,6 +72,7 @@ tags:
 - Children of Dune (Frank Herbert) [DNF]
 - [[Snow Crash]] (Neal Stephenson)
 - The Secret History (Donna Tartt)
+- All Fours (Miranda July)
 
 ### 2024
 
