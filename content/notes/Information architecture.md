@@ -5,7 +5,7 @@ tags:
 draft: "false"
 date: 2024-02-23
 ---
-Information architecture (IA) is **the practice of organizing information so that it's easy to find, understand, and apply. It's a critical thing to consider when building websites and apps, but it's also important in meatspace (see below for examples).
+Information architecture (IA) is **the practice of organizing information so that it's easy to find, understand, and apply**. It's a critical component to consider when building websites and apps, but it's also important in meatspace (see below for examples).
 
 ## Systems for IA
 
