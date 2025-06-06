@@ -110,6 +110,8 @@ tags:
 - Fearless Hyena
 - Fearless Hyena 2
 - Bringing Up Baby (1938)
+- Before Sunrise
+- Before Sunset
 
 ### 2024
 - Furiosa
