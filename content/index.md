@@ -5,7 +5,7 @@ title: Welcome home
 
 I'm Mo, a writer, artist, and lover of humans/computers/cats/[[Words|words]] living in Brooklyn, NY. This is where I collect my favorite bits of [[essays/|writing]], as well as various [[notes/|notes]], [[lists/|lists]], and [[tags/frameworks|frameworks]] that I find worth revisiting.
 
-Topics range from [[tags/philosophy|philosophy]], [[tags/anthropology|anthropology]], to reviews of [[tags/books|books]] and [[tags/games|games]], to ideas for how to [[tags/living|live well]]. Some pieces are (relatively) polished, while others are stubs or works in progress.
+Topics range from [[tags/philosophy|philosophy]], [[tags/anthropology|anthropology]], to reviews of [[lists/books|books]] and [[tags/games|games]], to ideas for how to [[tags/living|live well]]. Some pieces are (relatively) polished, while others are stubs or works in progress.
 
 If something here resonates with you, feel free to reach out to me at potluckpresscorps@gmail.com. I’d love to hear your thoughts.
 
@@ -13,6 +13,6 @@ If you're not sure where to start, here are a few of my favorite essays:
 
 - [[Everything happens for a reason]]: Thoughts on rejection, cope, and storytelling.
 - [[But really, I do love you]]: What we mean when we say the words "I love you" across cultures and time.
-- [[The end]]: Common thought patterns around about aging and dying—and how to break them.
+- [[Why we work]]: Towards an ontology of labor orientations.
 
 Or, if you're curious: [[Taking notes out loud|why I made this site]].
