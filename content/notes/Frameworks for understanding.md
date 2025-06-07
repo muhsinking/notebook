@@ -13,8 +13,6 @@ I promise that you're already using them.[^1]
 
 - **Cognitive biases**, like confirmation bias and survivorship bias, help us catch when people (including ourselves) might be making errors of judgement. Again, these aren't "real", but they are useful categories of behavior, which help us pattern match when we observe people making similar errors.
 
-- Ezra Klein's **theory of political polarization**, which proposes that we are "dividing over fundamental identities that tend to generate intolerance and hostility".
-
 - **The three [[The Status Game|status games]]**—success, virtue, and dominance—proposed by Will Storr are useful for understanding the underlying drives behind vast swaths of human behavior.
 
 - **Astrology**, which may not be "real" in the way that astronomy is (don't @ me), but like a tarot card reading, it can be a useful framework for introspection.

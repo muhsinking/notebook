@@ -15,8 +15,9 @@ I can't believe this game exists.
 	- Incredible idea; wonderful execution.
 	- Some of my favorite [music](https://www.youtube.com/watch?v=mPpBECMrBpc&list=PLgFVH9V-HKYmL3PCUGzhc1SCUCXll9SzM&index=28) in the whole collection.
 - **Party House**
-	- Essentially a push-your luck type board game.
-	- Absolutely adorable sprites & sounds.
+	- Essentially a push-your luck board game.
+	- Adorable sprites & sounds.
+	- Very tightly designed difficulty-wise.
 - **Avianos**
 	- 4X game about The Bird Wars, where you take actions by praising various dinosaur deities.
 	- Reminds me of Master of Magic (1994), perhaps my favorite 4X of all time.
