@@ -3,84 +3,8 @@ tags:
   - lists
   - movies
 ---
-## To watch
 
-### 2020s
-
-- The Brutalist (2024)
-- Ferrari (2023)
-- Asteroid City (2023)
-- Kalki 2898 (2024)
-- Space Sweepers (2021)
-- Demon (2021)
-- The Conclave (2024)
-- NOPE (2022)
-- Flow (2024)
-- Wild Robot (2024)
-- Caught by the Tides (2024)
-
-### 2010s
-
-- Moonlight (2016)
-- The Last Black Man in San Francisco (2019)
-- Portrait of a Lady on Fire (2019)
-- The Sheik and I (2012)
-- Us (2019)
-- Get Out (2017)
-- Boyhood (2014)
-- Mandy (2018)
-
-### 2000s
-
-- City of God (2002)
-- Lost in Translation (2003)
-- Shaun the Sheep (2007)
-- The Fall (2006)
-- The Life Aquatic with Steve Zissou (2004)
-- The Pianist (2002)
-
-### 1990s
-
-- Fear and Loathing in Las Vegas (1998)
-- Rushmore (1998)
-- Paris Is Burning (1990)
-- Before Sunrise (1995)
-- Blade (1998)
-
-### 1980s
-
-- Dragonslayer (1981)
-- The Dark Crystal (1982)
-- Amadeus (1984)
-- Police Story (1985)
-- Dirty Dancing (1987)
-- They Live (1988)
-- Bill & Ted’s Excellent Adventure (1989)
-- The Cook, the Thief, His Wife & Her Lover (1989)
-
-
-### 1960s-1970s
-
-- 1000 Clowns (1965)
-- Funeral Parade of Roses (1969)
-- The Godfather (1972)
-- The Godfather Part II (1974)
-- The Deer Hunter (1978)
-- All that Jazz (1979)
-- Jaws (1975)
-
-### 1920s-1950s
-
-- Harvey (1950)
-- Rashomon (1950)
-- Seven Samurai (1954)
-- 12 Angry Men (1957)
-- Throne of Blood (1957)
-- The Hidden Fortress (1958)
-
-## Watched
-
-### 2025
+## 2025
 - The Master
 - Encanto
 - No Other Land
@@ -112,8 +36,10 @@ tags:
 - Bringing Up Baby (1938)
 - Before Sunrise
 - Before Sunset
+- Before Midnight
+- Possession (1981)
 
-### 2024
+## 2024
 - Furiosa
 - Frances Ha
 - I Saw the TV Glow
@@ -127,7 +53,7 @@ tags:
 - Paris, Texas
 - Dune Part 2
 
-### 2023
+## 2023
 - BlackBerry
 - Bottoms
 - Past Lives
