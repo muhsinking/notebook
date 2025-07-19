@@ -3,33 +3,15 @@ tags:
   - games
   - lists
 ---
-## Playing now
 
-
-
-## To play
-
-- Blue Prince
-- Mouthwashing
-- What Remains of Edith Finch
-- Persona 5
-- Void Stranger
-- Indika
-- Gloomwood
-- Chicory
-- Sea of Stars
-- Tunic
-- Season
-- Armored Core 6
-- BOTW 2: Tears of the Kingdom
-- Fields of Mystria
-- The Case of the Golden Idol
-
-## Played
-### 2025
+## 2025
 
 - Citizen Sleeper 2
 - [[UFO 50]]
+- The Case of the Golden Idol
+- Tunic
+- Wheel World
+
 ## 2024
 
 - I Was a Teenage Exocolonist
