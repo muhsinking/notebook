@@ -3,66 +3,13 @@ tags:
   - books
   - lists
 ---
+
 ## Reading now
 
-- The Myth of Sisyphus (Albert Camus)
-- Essentialism (Greg McKeown)
-- How to Write One Song (Jeff Tweedy)
+- Pride and Prejudice (Jane Austen)
+- The Dawn of Everything (David Graeber/Wengrow)
 
-## To read
-
-### Nonfiction
-
-- The Conquest of Cool
-- The Extinction of Experience
-- H is for Hawk
-- The Other Significant Others
-- The Solutions are Already Here
-- The Real Estate State
-- The Work of Art
-- The Trees
-- Man's Search for Meaning
-- Intelligence and Spirit
-- The Idea of Justice (Amartya Sen)
-
-### Fiction
-
-- Stoner (John Williams)
-- Another Country (James Baldwin)
-- Remains of the Day (Ishiguro)
-- Of Mice and Men
-- A Little Life
-- White Teeth (Zadie Smith)
-- A Course of Love
-- Don Quixote
-- Exit West (Mohsin Hamid)
-- A Picture of Dorian Grey
-- City of Thieves
-- A Visit from the Goon Squad
-- Free Food for Millionaires (Min Jin Lee)
-- Abundance (Ezra Klein)
-
-### Science fiction & fantasy
-
-- Fahrenheit 451 (Bradbury)
-- A Memory Called Empire
-- Everything for Everyone
-- Chain Gang All Stars
-- Scholomance (Naomi Novik)
-- Hand of the Emperor (Wahi recommends)
-
-### Philosophy
-
-- Capitalist Realism (Mark Fisher)
-- Keiji Nishitani (The Self-Overcoming of Nihilism + Religion & Nothingness)
-- Simone Weil (Waiting for God)
-- The Structure of Scientific Revolutions (Khun)
-- Nietzsche (Thus Spoke Zarathustra)
-- Kierkegaard (Either / Or)
-
-## Finished
-
-### 2025
+## 2025
 
 - Intermezzo (Sally Rooney)
 - Neuromancer (William Gibson)
@@ -73,8 +20,12 @@ tags:
 - [[Snow Crash]] (Neal Stephenson)
 - The Secret History (Donna Tartt)
 - All Fours (Miranda July)
+- The Myth of Sisyphus (Albert Camus)
+- Essentialism (Greg McKeown)
+- How to Write One Song (Jeff Tweedy)
 
-### 2024
+
+## 2024
 
 - The Odyssey
 - Saving Time
@@ -102,6 +53,11 @@ tags:
 - [[Pachinko]]
 - Unlimited Memory
 - Wild Swans
+- Brave New World
+- Children of Ruin
+- [[The Love Affairs of Nathaniel P.]]
+- [[The Science of Storytelling]] (Will Storr)
+- Silk Roads
 - Brave New World
 - Children of Ruin
 - [[The Love Affairs of Nathaniel P.]]
